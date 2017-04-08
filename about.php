@@ -26,9 +26,9 @@
 	
 </head>
 
-<body>
+<body> 
 
-<!-- Header starts here -->
+<!-- Header starts here git -->
 	<?php include 'includes/header.php'; ?>	
 
 <!-- Innerpage baner starts here -->
