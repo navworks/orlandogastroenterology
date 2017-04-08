@@ -30,7 +30,6 @@
 
 <!-- Header starts here -->
 	<?php include 'includes/header.php'; ?>	
-added for test
 <!-- Innerpage baner starts here -->
 <section class="inner-banner" style="background-image: url('images/innerbanner/bg.jpg');">
 		<div class="container">
