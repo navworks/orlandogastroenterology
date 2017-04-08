@@ -1,0 +1,42 @@
+.homeabout{
+    padding: 60px 0;
+	&__opening-hours{
+        border: 10px solid #f1f1f1;
+        padding: 30px;
+        @media screen and (max-width:@screen-md) {
+            margin-bottom: 25px;
+        }
+        h5{
+            color: #000;
+        }
+        i{
+            color: @brand-primary;
+        }
+        .table{
+            margin-bottom: 35px;
+             td{
+                border-top: 0; 
+                border-bottom: 1px solid #ddd;
+            }
+        }
+    }
+    &__form-button{      
+        display: inline-block;
+        color: #fff;
+        background-color: @brand-primary;
+        border-color: @brand-primary;
+        border-radius: 3px;
+        margin-top: 15px;
+        font-size: 13px;
+        padding: 8px 22px;
+        &:hover{
+            background-color:#bbb;
+            text-decoration: none;
+            color: @brand-primary;
+        }
+    }
+
+    &__about-brief{
+    }
+
+}
