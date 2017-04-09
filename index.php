@@ -14,15 +14,13 @@
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,200,500,700,600,800' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="styles/styles.css">
 	<link rel="stylesheet" type="text/css" href="styles/animate.css">
-	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css">
-	
+	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css">	
 	<script src="js/jquery-2.2.4.min.js"></script>
 	<script src="js/swiper.min.js"></script>
 	<script src="js/fancybox/jquery.fancybox.js"></script>
 	<script src="js/waypoints.min.js"></script>
 	<script src="js/jquery.validate.min.js"></script>
-	<script src="js/custom.js"></script>
-	
+	<script src="js/custom.js"></script>	
 </head>
 
 <body>
@@ -38,19 +36,18 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h1 data-animation="zoomIn" class="banner__head">
+								<h1 data-animation="zoomIn" class="banner__head text-primary">
 									<small>Orlando Magazine names<br>Dr. Pothamsetty<br>
 									one of</small> <br>Orlando's Premier Doctors
 								</h1>
 							</div>
 							<div class="col-sm-6">
-								<img src="images/slider/mag.jpg" class="img-responsive">
+								<img src="images/slider/mag.jpg" class="img-responsive banner__img-center">
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide" style="background-image:url(images/slider/banner1.jpg);">
-				
+				<div class="swiper-slide" style="background-image:url(images/slider/banner1.jpg);">				
 					<div class="container">
 						<div class="row"><div class="col-sm-12">
 						<h1 data-animation="slideInDown" class="banner__tinted-head">
@@ -60,10 +57,9 @@
 					</div>
 				</div>
 				<div class="swiper-slide" src="images/slider/slider-bg.jpg" style="background-image:url(images/slider/banner2.jpg);">
-
 					<div class="container">
 						<div class="row"><div class="col-sm-12">
-						<h1 data-animation="slideInDown" class="banner__tinted-head">
+						<h1 data-animation="slideInLeft" class="banner__tinted-head ">
 							Congratulations to Dr. Pothamsetty for his appointment
 							to Assistant Professor of Medicine at the UCF College of Medicine.
 						</h1>
@@ -74,7 +70,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h1 data-animation="slideInDown" class="banner__tinted-head">
+								<h1 data-animation="zoomIn" class="banner__tinted-head col80">
 									Welcome Dr. Goli Pediatric Gastroenterologist, to our practice
 								</h1>
 								</div>
@@ -88,7 +84,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h1 data-animation="slideInDown" class="banner__tinted-head">									
+								<h1 data-animation="slideInDown" class="banner__tinted-head col80">									
 									Dr. Mejia<br>
 									announces new office location in Kissimmee
 								</h1>
@@ -103,7 +99,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h1 data-animation="slideInDown" class="banner__tinted-head">						
+								<h1 data-animation="slideInDown" class="banner__tinted-head col80">						
 									Congrats to Dr. Pothamsetty<br>
 									for being awarded the "Outstanding Physician<br>
 									Award" by Surgery Partners
@@ -115,15 +111,10 @@
 						</div>
 					</div>
 				</div>
-
-
-
-
-
-
 			</div>
-			<!-- Add Pagination -->
-			<div class="swiper-pagination swiper-pagination-white"></div>
+			<!-- Add Pagination
+				<div class="swiper-pagination swiper-pagination-white"></div>
+			-->
 			<!-- Add Arrows -->
 			<div class="swiper-button-next"><i class="icon-right"></i></div>
 			<div class="swiper-button-prev"><i class="icon-left"></i></div>
