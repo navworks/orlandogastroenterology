@@ -48,86 +48,95 @@
 <section class="inner-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-12">
 
 				<h2 class="inner-content__mainhead"> <span>Orlando</span>   Gastroenterology Providers </h2>
+				<br>
+				<hr>
+				<div class="row">
 
-
-				<div class="row">
 					<div class="col-sm-5">
-						<img src="images/team-slider/drpothemsetty.jpg" class="img-rounded img-responsive"></img>
-						<p>Board Certified Gastroenterologist</p>
+						<img src="images/team-slider/drpothemsetty.jpg" class="img-circle img-responsive"></img>
+						<h4 class="text-center text-primary">Board Certified Gastroenterologist</h4>
 					</div>
 					<div class="col-sm-7">
-						<h2>Sri Pothamsetty, M.D.</h2>
-						<p>							
-							Dr. Sri Pothamsetty founded Orlando Gastroenterology, P.A. in 2002. He is a Board-Certified Gastroenterologist, and a member of the American College of Gastroenterology as well as the American Gastroenterological Association. His passion for safe, comfortable and high-quality endoscopy led to the establishment of the endoscopy center at The Millenia Surgery Center, L.L.C., a state-of-the-art facility operating 6 days a week including Saturdays.
-						</p>
-						<p>
-							Dr. Pothamsetty is the Medical Director of Millenia Surgery Center. he has been awarded the <strong>Oustanding Physician Award</strong> by Surgery Partners in 2015.
-						</p>
+						<blockquote>
+							<h2 class="text-warning">Sri Pothamsetty, M.D.</h2>
+							<p>							
+								Dr. Sri Pothamsetty founded Orlando Gastroenterology, P.A. in 2002. He is a Board-Certified Gastroenterologist, and a member of the American College of Gastroenterology as well as the American Gastroenterological Association. His passion for safe, comfortable and high-quality endoscopy led to the establishment of the endoscopy center at The Millenia Surgery Center, L.L.C., a state-of-the-art facility operating 6 days a week including Saturdays.
+							</p>
+							<p>
+								Dr. Pothamsetty is the Medical Director of Millenia Surgery Center. he has been awarded the <strong>Oustanding Physician Award</strong> by Surgery Partners in 2015.
+							</p>
+						</blockquote>
 					</div>					
 				</div>
 				<hr>
 				<div class="row">
 					<div class="col-sm-5">
-						<img src="images/team-slider/luis-e-mejia.jpg" class="img-rounded img-responsive"></img>
-						<p>Board Certified Gastroenterologist</p>
+						<img src="images/team-slider/luis-e-mejia.jpg" class="img-circle img-responsive"></img>
+						<h4 class="text-center text-primary">Board Certified Gastroenterologist</h4 >
 					</div>
 					<div class="col-sm-7">
-						<h2>Luis E. Mejia, M.D.</h2>
-						<p>							
-							Dr. Luis Mejia is a prominent Board-Certified Gastroenterologist and a skilled endoscopist. He speaks Spanish and is a member of the Pan-American Physicians Association. He is a member of the American College of Gastroenterology and the American Gastroenterological Association. A highly skilled endoscopist, he is committed to compassionate care of his patients combined with the highest level of clinical ability.
-						</p>
+						<blockquote>
+							<h2 class="text-warning">Luis E. Mejia, M.D.</h2>
+							<p>							
+								Dr. Luis Mejia is a prominent Board-Certified Gastroenterologist and a skilled endoscopist. He speaks Spanish and is a member of the Pan-American Physicians Association. He is a member of the American College of Gastroenterology and the American Gastroenterological Association. A highly skilled endoscopist, he is committed to compassionate care of his patients combined with the highest level of clinical ability.
+							</p>
+						</blockquote>
 					</div>					
 				</div>
 				<hr>
 				<div class="row">
 					<div class="col-sm-5">
-						<img src="images/team-slider/sridargoli.jpg" class="img-rounded img-responsive"></img>
-						<p>Board Certified Pediatric Gastroenterologist</p>
+						<img src="images/team-slider/sridargoli.jpg" class="img-circle img-responsive"></img>
+						<h4 class="text-center text-primary">Board Certified Pediatric Gastroenterologist</h4>
 					</div>
 					<div class="col-sm-7">
-						<h2>Sridhar Goli, MD</h2>
-						<p>							
-							Dr. Sridhar Goli is a Pediatric Gastroenterologist and specializes in the diagnosis and treatment of Gastrointestinal, Liver and Pancreatic disorders, He also has a special interest in the nutritional disorders of infants, children and adolescents.
-						</p>
-						<p>
-							He has completed his general Pediatric residency training at St. Peter’s University hospital, NJ and his Pediatric Gastroenterology fellowship training at State University of New York in Brooklyn, NY. In addition to providing excellent patient care he has been recognized by his patients as a compassionate doctor and has received Vital’s patient choice awards, ranked as a “top docs” in the NJ monthly.
-						</p>
+						<blockquote>
+							<h2 class="text-warning">Sridhar Goli, MD</h2>
+							<p>							
+								Dr. Sridhar Goli is a Pediatric Gastroenterologist and specializes in the diagnosis and treatment of Gastrointestinal, Liver and Pancreatic disorders, He also has a special interest in the nutritional disorders of infants, children and adolescents.
+							</p>
+							<p>
+								He has completed his general Pediatric residency training at St. Peter’s University hospital, NJ and his Pediatric Gastroenterology fellowship training at State University of New York in Brooklyn, NY. In addition to providing excellent patient care he has been recognized by his patients as a compassionate doctor and has received Vital’s patient choice awards, ranked as a “top docs” in the NJ monthly.
+							</p>
+						</blockquote>
 					</div>					
 				</div>
 				<hr>
 				<div class="row">
 					<div class="col-sm-5">
-						<img src="images/team-slider/stacie-kittman.jpg" class="img-rounded img-responsive"></img>
-						<p>Gastroenterology Nurse Practitioner</p>
+						<img src="images/team-slider/stacie-kittman.jpg" class="img-circle img-responsive"></img>
+						<h4 class="text-center text-primary">Gastroenterology Nurse Practitioner</h4>
 					</div>
 					<div class="col-sm-7">
-						<h2>Stacie Kittman, A.R.N.P</h2>
-						<p>							
-							Stacie Kittman, A.R.N.P. is a Board-Certified Advanced Registered Nurse Practitioner with years of experience in digestive disorders.
-						</p>
+						<blockquote>
+							<h2 class="text-warning">Stacie Kittman, A.R.N.P</h2>
+							<p>							
+								Stacie Kittman, A.R.N.P. is a Board-Certified Advanced Registered Nurse Practitioner with years of experience in digestive disorders.
+							</p>
+						</blockquote>
 					</div>					
 				</div>
 				<hr>
 				<div class="row">
 					<div class="col-sm-5">
-						<img src="images/team-slider/kerry-dupuis.jpg" class="img-rounded img-responsive"></img>
-						<p>Gastroenterology Nurse Practitioner</p>
+						<img src="images/team-slider/kerry-dupuis.jpg" class="img-circle img-responsive"></img>
+						<h4 class="text-center text-primary">Gastroenterology Nurse Practitioner</h4>
 					</div>
 					<div class="col-sm-7">
-						<h2>Kerry Dupuis, A.R.N.P.</h2>
-						<p>							
-							Kerry Dupuis, A.R.N.P. is a Board-Certified Advanced Registered Nurse Practitioner with special interest in Gastroenterology
-						</p>
+						<blockquote>
+							<h2 class="text-warning">Kerry Dupuis, A.R.N.P.</h2>
+							<p>							
+								Kerry Dupuis, A.R.N.P. is a Board-Certified Advanced Registered Nurse Practitioner with special interest in Gastroenterology
+							</p>
+						</blockquote>
 					</div>					
 				</div>
 				<hr>
 			</div>
-			<div class="col-sm-4">
-				<?php include 'includes/form.php'; ?>		
-			</div>
+		</div>
 </section >
 
 <?php include 'includes/services.php'; ?>

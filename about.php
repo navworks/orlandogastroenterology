@@ -53,7 +53,7 @@
 				<h2 class="inner-content__mainhead"> <span>WELCOME TO</span> Orlando Gastroenterology </h2>
 				<div class="row">
 					<div class="col-sm-5">
-						<h4> As a patient, you matter. </h4>
+						<h4> As a patient, you matter. </h4	>
 						<p>Our commitment to you is:</p>
 						<ul>
 							<li> Excellent patient care </li>
