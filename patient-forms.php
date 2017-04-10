@@ -48,31 +48,29 @@
 <section class="inner-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
-
+			<div class="col-sm-12">
 				<h2 class="inner-content__mainhead"> <span>Looking for</span>  downloadable forms? </h2>
+				<hr>
+			</div>
+		</div>
 
-
-				<div class="row">
-					<div class="col-sm-5">
-						<img src="images/nurse-inner.jpg" class="img-responsive"></img>
-					</div>
-					<div class="col-sm-7">
-						<p>New Patient Packet for Office Visit </p>
-						<a class="btn" href=""> Downoad file</a>
-						<hr/>
-						<p>Millenia Surgery Center Forms</p>
-						<a class="btn" href=""> Downoad file</a>
-					</div>
-
-					
+		<div class="row">
+			<div class="col-sm-4 col-sm-offset-1">
+				<div class="patient-forms">
+					<img src="images/dr-waiting.jpg" class="img-responsive"></img>
+					<h3 class="patient-forms__head">New Patient Packet for Office Visit </h3>
+					<a class="btn" href=""> Downoad file</a>
 				</div>
-
-				
 			</div>
-			<div class="col-sm-4">
-				<?php include 'includes/form.php'; ?>		
-			</div>
+			<div class="col-sm-4 col-sm-offset-1">
+				<div class="patient-forms">
+					<img src="images/surgery.jpg" class="img-responsive img-circle"></img>
+					<h3 class="patient-forms__head">Millenia Surgery Center Forms</h3>
+					<a class="btn" href=""> Downoad file</a>
+				</div>					
+			</div>					
+		</div>
+		<hr>			
 </section >
 
 <?php include 'includes/services.php'; ?>

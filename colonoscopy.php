@@ -48,27 +48,47 @@
 <section class="inner-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-3">
+				<?php include 'includes/left.php'; ?>		
+			</div>
+
+			<div class="col-sm-9">
 
 				<h2 class="inner-content__mainhead"> Colonoscopy </h2>
-				<img src="images/colonoscopy.jpg" class="img-responsive img-rounded"></img>
-				<h4>What is colonoscopy?</h4>
-				<p>
-					Colonoscopy is a procedure used to see inside the colon and rectum. Colonoscopy can detect inflamed tissue, ulcers, and abnormal growths. The procedure is used to look for early signs of colorectal cancer and can help doctors diagnose unexplained changes in bowel habits, abdominal pain, bleeding from the anus, and weight loss.
-				</p>
-				<h4>What are the colon and rectum?</h4>
-				<p>
-					The colon and rectum are the two main parts of the large intestine. Although the colon is only one part of the large intestine, because most of the large intestine consists of colon, the two terms are often used interchangeably. The large intestine is also sometimes called the large bowel.
-				</p>
-				<p>The colon and rectum are the two main parts of the large intestine.</p>
-				<p>
-					Digestive waste enters the colon from the small intestine as a semisolid. As waste moves toward the anus, the colon removes moisture and forms stool. The rectum is about 6 inches long and connects the colon to the anus. Stool leaves the body through the anus. Muscles and nerves in the rectum and anus control bowel movements.
-				</p>
-				<img src="images/colonoscopy_2.jpg" class="img-responsive img-rounded"></img>
-				<h4>How to Prepare for Colonoscopy?</h4>
-				<p>
-					The doctor usually provides written instructions about how to prepare for colonoscopy. The process is called a bowel prep. Generally, all solids must be emptied from the gastrointestinal tract by following a clear liquid diet for 1 to 3 days before the procedure. Patients should not drink beverages containing red or purple dye. Acceptable liquids include
-				</p>
+
+				<div class="row">
+					<div class="col-sm-8">
+						<h4>What is colonoscopy?</h4>
+						<p>
+							Colonoscopy is a procedure used to see inside the colon and rectum. Colonoscopy can detect inflamed tissue, ulcers, and abnormal growths. The procedure is used to look for early signs of colorectal cancer and can help doctors diagnose unexplained changes in bowel habits, abdominal pain, bleeding from the anus, and weight loss.
+						</p>
+						<h4>What are the colon and rectum?</h4>
+						<p>
+							The colon and rectum are the two main parts of the large intestine. Although the colon is only one part of the large intestine, because most of the large intestine consists of colon, the two terms are often used interchangeably. The large intestine is also sometimes called the large bowel.
+						</p>						
+					</div>
+					<div class="col-sm-4">
+						<h4><img src="images/colonoscopy.jpg" class="img-responsive img-rounded"></img></h4>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<img src="images/colonoscopy_2.jpg" class="img-responsive img-thumbnail"></img>
+					</div>
+					<div class="col-sm-8">
+						<p>The colon and rectum are the two main parts of the large intestine.</p>
+						<p>
+							Digestive waste enters the colon from the small intestine as a semisolid. As waste moves toward the anus, the colon removes moisture and forms stool. The rectum is about 6 inches long and connects the colon to the anus. Stool leaves the body through the anus. Muscles and nerves in the rectum and anus control bowel movements.
+						</p>
+						<h4>How to Prepare for Colonoscopy?</h4>
+						<p>
+							The doctor usually provides written instructions about how to prepare for colonoscopy. The process is called a bowel prep. Generally, all solids must be emptied from the gastrointestinal tract by following a clear liquid diet for 1 to 3 days before the procedure. Patients should not drink beverages containing red or purple dye. Acceptable liquids include
+						</p>
+					</div>
+					
+				</div>
+				
 				<ul>
 					<li>fat-free bouillon or broth</li>
 					<li>strained fruit juice</li>
@@ -117,9 +137,7 @@
 				<p>Routine colonoscopy to look for early signs of cancer should begin at age 50 for most people—earlier if there is a family history of colorectal cancer, a personal history of inflammatory bowel disease, or other risk factors. The doctor can advise patients about how often to get a colonoscopy</p>
 
 			</div>
-			<div class="col-sm-4">
-				<?php include 'includes/form.php'; ?>		
-			</div>
+			
 </section >
 
 <?php include 'includes/services.php'; ?>

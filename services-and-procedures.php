@@ -48,9 +48,10 @@
 <section class="inner-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-12">
 
 				<h2 class="inner-content__mainhead"> <span>Various</span>Services and Procedures</h2>
+				<hr>
 
 				<div class="row">
 
@@ -93,9 +94,7 @@
 
 				
 			</div>
-			<div class="col-sm-4">
-				<?php include 'includes/form.php'; ?>		
-			</div>
+			
 </section >
 
 

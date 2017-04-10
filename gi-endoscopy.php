@@ -48,26 +48,42 @@
 <section class="inner-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
+			<div class="col-sm-3">
+				<?php include 'includes/left.php'; ?>		
+			</div>
+			<div class="col-sm-9">
 
 				<h2 class="inner-content__mainhead"> <span>Upper</span> GI Endoscopy </h2>
-				<img src="images/gi-endoscopy.jpg" class="img-responsive img-rounded"></img>
 
-				<h4><strong>What is upper gastrointestinal (GI) endoscopy?</strong></h4>
-				<p>
-					Upper GI endoscopy is a procedure that uses a lighted, flexible endoscope to see inside the upper GI tract. The upper GI tract includes the esophagus, stomach, and duodenum—the first part of the small intestine. Upper GI endoscopy is a procedure that uses a lighted, flexible endoscope to see inside the esophagus, stomach, and duodenum.
-				</p>
-				<img src="images/EGD1.jpg" class="img-responsive img-rounded"></img>
-				<h4>What problems can upper GI endoscopy detect?</h4>
-				<p>Upper GI endoscopy can detect:</p>
-				<ul>
-					<li>Ulcer</li>
-					<li>Abnormal Growths</li>
-					<li>Precancerous Conditions</li>
-					<li>Bowel Obstruction</li>
-					<li>Inflammation</li>
-					<li>Hiatal hernia</li>
-				</ul>
+				<div class="row">
+					<div class="col-md-8">
+						<h4><strong>What is upper gastrointestinal (GI) endoscopy?</strong></h4>
+						<p>
+							Upper GI endoscopy is a procedure that uses a lighted, flexible endoscope to see inside the upper GI tract. The upper GI tract includes the esophagus, stomach, and duodenum—the first part of the small intestine. Upper GI endoscopy is a procedure that uses a lighted, flexible endoscope to see inside the esophagus, stomach, and duodenum.
+						</p>						
+					</div>
+					<div class="col-md-4">
+						<img src="images/gi-endoscopy.jpg" class="img-responsive img-rounded"></img>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<img src="images/EGD1.jpg" class="img-responsive img-rounded"></img>
+					</div>
+					<div class="col-md-8">
+						<h4>What problems can upper GI endoscopy detect?</h4>
+						<p>Upper GI endoscopy can detect:</p>
+						<ul>
+							<li>Ulcer</li>
+							<li>Abnormal Growths</li>
+							<li>Precancerous Conditions</li>
+							<li>Bowel Obstruction</li>
+							<li>Inflammation</li>
+							<li>Hiatal hernia</li>
+						</ul>						
+					</div>
+				</div>
+
 				<h4>When is upper GI endoscopy used?</h4>
 				<p>Upper GI endoscopy can be used to determine the cause of:</p>
 				<ul>
@@ -137,9 +153,7 @@
 				</ul>
 
 			</div>
-			<div class="col-sm-4">
-				<?php include 'includes/form.php'; ?>		
-			</div>
+			
 </section >
 
 <?php include 'includes/services.php'; ?>
