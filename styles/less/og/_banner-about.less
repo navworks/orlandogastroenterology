@@ -1,0 +1,35 @@
+.banner-about{
+    background-image: url('../images/innerbanner/bg.jpg');
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+    position: relative;
+    color: #000;
+    &:before{
+        background-color: rgba(255, 255, 255, 0.7);
+        content: " ";
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 0;
+    }
+    h1{
+        position: relative;
+        z-index: 10;
+        color: @brand-primary;
+    }
+    h2{
+        position: relative;
+        z-index: 10;
+        span{
+            font-family:@font-family-sans-serif;
+            font-weight: 700;
+            color: @brand-primary;
+        }
+    }
+}

@@ -38,7 +38,8 @@ $(document).ready(function(){
 	var teamSwiper = new Swiper('.team-swiper',{
         nextButton: '.team-next',
         prevButton: '.team-prev',
-        spaceBetween: 30
+        spaceBetween: 30,
+        autoplay: 4000,
 	});
 	var testimonialSwiper = new Swiper('.testimonial-swiper',{
         nextButton: '.testimonial-next',

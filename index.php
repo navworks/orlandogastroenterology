@@ -10,8 +10,7 @@
 	<meta name="subject" content="ISNSCCON 2017">
 	<title>Orlando Gastroenterology, P.A.</title>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,200,500,700,600,800' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="styles/styles.css">
 	<link rel="stylesheet" type="text/css" href="styles/animate.css">
 	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css">	
@@ -36,10 +35,16 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h1 data-animation="zoomIn" class="banner__head text-primary">
-									<small>Orlando Magazine names<br>Dr. Pothamsetty<br>
-									one of</small> <br>Orlando's Premier Doctors
+								<h2 data-animation="fadeInDown" class="banner__head text-primary">
+									Orlando Magazine names
+								</h2>
+								<h1 data-animation="zoomIn" class="text-primary">
+									Dr. Pothamsetty<br>
 								</h1>
+								<h3 data-animation="zoomIn" class="text-primary">
+									one of Orlando's Premier Doctors
+								</h3>
+								
 							</div>
 							<div class="col-sm-6">
 								<img src="images/slider/mag.jpg" class="img-responsive banner__img-center">
@@ -50,7 +55,7 @@
 				<div class="swiper-slide" style="background-image:url(images/slider/banner1.jpg);">				
 					<div class="container">
 						<div class="row"><div class="col-sm-12">
-						<h1 data-animation="slideInDown" class="banner__tinted-head">
+						<h1 data-animation="zoomIn" class="banner__tinted-head">
 							We are pleased to announce  that we now offer Saturday hours
 						</h1>
 						</div></div>
@@ -59,7 +64,7 @@
 				<div class="swiper-slide" src="images/slider/slider-bg.jpg" style="background-image:url(images/slider/banner2.jpg);">
 					<div class="container">
 						<div class="row"><div class="col-sm-12">
-						<h1 data-animation="slideInLeft" class="banner__tinted-head ">
+						<h1 data-animation="zoomIn" class="banner__tinted-head ">
 							Congratulations to Dr. Pothamsetty for his appointment
 							to Assistant Professor of Medicine at the UCF College of Medicine.
 						</h1>
@@ -152,10 +157,10 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="homeabout__about-brief animate-this" data-animationtype="fadeInDown">
 						<h3>About Us</h3>
-						<h1>Orlando Gastroenterology, P.A.</h1>
-						<h5 class="text-primary">
-							As a patient, you matter. Our commitment to you is:
-						</h5>
+						<h2 class="text-info">Orlando Gastroenterology, P.A.</h2>
+						<p class="text-primary">
+							As a patient, you matter. <br>Our commitment to you is:
+						</p>
 						<ul class="list-unstyled">
 							<li>Excellent patient care                                           </li>
 							<li>Having the best reputation in helping you obtain optimum health  </li>
@@ -174,6 +179,19 @@
 			</div>
 		</div>
 	</section>
+
+<!-- Section new banner Advertisement -->
+	<div class="banner-about wp">
+		<h1 class="animate-this" data-animationtype="zoomIn">
+			THE BEST MEDICAL SERVICE IN ORLANDO CITY
+		</h1>
+		<h2 class="animate-this" data-animationtype="fadeInUp">
+			We Provide the Best Medical Service			
+		</h2>
+		<h2 class="animate-this" data-animationtype="fadeInDown">
+			Call Us: <span>+(407) 499-8636</span> For Emergency
+		</h2>
+	</div>
 
 <!-- Section Services starts here -->
 	<?php include 'includes/services.php'; ?>
@@ -302,9 +320,11 @@
 											</p>
 										</div>
 										<div class="homeformtesti__testi-item-author">
+										<?php /*     
 											<div class="homeformtesti__testi-item-author-image">
 												<img src="images/testi-image.jpg">
 											</div>											
+										*/ ?>
 											<div class="homeformtesti__testi-item-author-name">
 												<h2>Paul S</h2>
 												<h3></h3>
@@ -322,9 +342,11 @@
 											</p>
 										</div>
 										<div class="homeformtesti__testi-item-author">
+										<?php /*     
 											<div class="homeformtesti__testi-item-author-image">
 												<img src="images/testi-image.jpg">
 											</div>											
+										*/ ?>
 											<div class="homeformtesti__testi-item-author-name">
 												<h2>Maria P</h2>
 												<h3></h3>
@@ -342,9 +364,11 @@
 											</p>
 										</div>
 										<div class="homeformtesti__testi-item-author">
-											<div class="homeformtesti__testi-item-author-image">
-												<img src="images/testi-image.jpg">
-											</div>											
+											<?php /*     
+												<div class="homeformtesti__testi-item-author-image">
+													<img src="images/testi-image.jpg">
+												</div>		
+											*/ ?>									
 											<div class="homeformtesti__testi-item-author-name">
 												<h2>Keegan M</h2>
 												<h3></h3>

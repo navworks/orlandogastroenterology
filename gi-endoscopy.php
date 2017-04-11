@@ -53,7 +53,7 @@
 			</div>
 			<div class="col-sm-9">
 
-				<h2 class="inner-content__mainhead"> <span>Upper</span> GI Endoscopy </h2>
+				<h2 class="inner-content__mainhead"> Upper GI Endoscopy </h2>
 
 				<div class="row">
 					<div class="col-md-8">
