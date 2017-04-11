@@ -71,7 +71,7 @@
 					</div>
 
 					<div class="col-sm-7">
-						 <img src="images/nurse-inner.jpg" class="img-responsive"></img>
+						 <img src="images/nurse-inner-top.jpg" class="img-responsive"></img>
 						 <div class="row">
 							<div class="col-xs-6">
 								<br>
