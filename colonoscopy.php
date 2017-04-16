@@ -89,7 +89,7 @@
 					
 				</div>
 				
-				<ul>
+				<ul  class="arrow-list">
 					<li>fat-free bouillon or broth</li>
 					<li>strained fruit juice</li>
 					<li>water</li>
@@ -104,7 +104,7 @@
 				<p>
 					Patients should inform the doctor of all medical conditions and any medications, vitamins, or supplements taken regularly, including
 				</p>
-				<ul>
+				<ul  class="arrow-list">
 					<li>aspirin</li>
 					<li>arthritis medications</li>
 					<li>blood thinners</li>
@@ -126,7 +126,7 @@
 				<h5>Recovery:</h5>
 				<p>Colonoscopy usually takes 30 to 60 minutes. Cramping or bloating may occur during the first hour after the procedure. The sedative takes time to completely wear off. Patients may need to remain at the clinic for 1 to 2 hours after the procedure. Full recovery is expected by the next day. Discharge instructions should be carefully read and followed.</p>
 				<p>Patients who develop any of these rare side effects should contact their doctor immediately:</p>
-				<ul>
+				<ul  class="arrow-list">
 				  <li>severe abdominal pain</li>
 				  <li>fever</li>
 				  <li>bloody bowel movements</li>

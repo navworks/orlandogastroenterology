@@ -61,7 +61,7 @@
 				<p>Changing what you eat and drink can help prevent or reduce gas. If you feel like you have too much gas, you might want to try these things before going to the doctor.</p>
 				<p>1. Cut down on foods that cause gas.</p>
 				<p>The amount of gas caused by certain foods varies from person to person. The only way to know your own limits is to keep track of what you eat and how much gas it causes later. Some foods that cause gas are:</p>
-				<ul>
+				<ul  class="arrow-list">
 				<li>beans</li>
 				<li>vegetables such as broccoli, cabbage, brussels sprouts, onions, artichokes, and asparagus</li>
 				<li>fruits such as pears, apples, and peaches</li>
@@ -75,7 +75,7 @@
 				<p>Try not to drink liquids that cause gas, like soda and beer.</p>
 				<p>3. Reduce the amount of air you swallow.</p>
 				<p>Here are some ways to avoid swallowing air:</p>
-				<ul>
+				<ul  class="arrow-list">
 				<li>Eat slower and chew more to cut down on the amount of air you swallow when you eat.</li>
 				<li>Avoid chewing gum and eating hard candy.</li>
 				<li>If you smoke, try to cut down or quit.</li>
@@ -90,8 +90,8 @@
 				<li>People often think they pass too much gas when they really don’t.</li>
 				<li>Passing gas frequently is normal.</li>
 				<li>Two ways to reduce the amount of gas you have are to:
-				<ul>– cut down on the foods and liquids that cause gas</ul>
-				<ul>– reduce the amount of air you swallow</ul>
+				<ul  class="arrow-list">– cut down on the foods and liquids that cause gas</ul>
+				<ul  class="arrow-list">– reduce the amount of air you swallow</ul>
 				</li>
 				</ol>
 				<p>&nbsp;</p>

@@ -64,7 +64,7 @@
 <p><strong>What causes diarrhea?</strong></p>
 <p>Acute diarrhea is usually related to a bacterial, viral, or parasitic infection. Chronic diarrhea is usually related to functional disorders such as irritable bowel syndrome or inflammatory bowel disease.</p>
 <p>A few of the more common causes of diarrhea include the following:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Bacterial infections</strong> – Several types of bacteria consumed through contaminated food or water can cause diarrhea. Common culprits include Campylobacter, Salmonella, Shigella, and Escherichia coli (E. coli).</li>
 <li><strong>Viral infections</strong> – Many viruses cause diarrhea, including rotavirus, Norwalk virus, cytomegalovirus, herpes simplex virus, and viral hepatitis.</li>
 <li><strong>Food intolerances</strong> – Some people are unable to digest food components such as artificial sweeteners and lactose — the sugar found in milk.</li>
@@ -82,7 +82,7 @@
 <p>Children can have acute and chronic forms of diarrhea. Causes include bacteria, viruses, parasites, medications, functional bowel disorders, and food sensitivities. Infection with the rotavirus is the most common cause of acute childhood diarrhea. Rotavirus diarrhea usually resolves in 3 to 9 days. Children who are 6 to 32 weeks old can be vaccinated against the virus with a vaccine called Rotateq.</p>
 <p>If your child has diarrhea, do not hesitate to call the doctor for advice. Diarrhea is especially dangerous in newborns and infants, leading to dehydration in just a day or two. A child can die from dehydration within a few days. The main treatment for diarrhea in children is re-hydration to replace lost fluid quickly.</p>
 <p>Take your child to the doctor if there is no improvement after 24 hours or if any of the following symptoms appear:</p>
-<ul>
+<ul  class="arrow-list">
 <li>stools containing blood or pus</li>
 <li>black stools</li>
 <li>a temperature above 102 degrees</li>
@@ -92,7 +92,7 @@
 <p><strong>Dehydration</strong></p>
 <p>Diarrhea can cause dehydration, which means the body has lost too much fluid and too many electrolytes and can’t function properly. Dehydration is particularly dangerous in children and in older adults and must be treated promptly to avoid serious health problems.</p>
 <p>Signs of dehydration include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>thirst</li>
 <li>less frequent urination</li>
 <li>dry skin</li>
@@ -101,7 +101,7 @@
 <li>dark-colored urine</li>
 </ul>
 <p>Signs of dehydration in children include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>dry mouth and tongue</li>
 <li>no tears when crying</li>
 <li>no wet diapers for 3 hours or more</li>
@@ -116,7 +116,7 @@
 <p>Although water is extremely important in preventing dehydration, it does not contain electrolytes. Broth and soups that contain sodium, and fruit juices, soft fruits, or vegetables that contain potassium, help restore electrolyte levels. Over-the-counter rehydration solutions such as Pedialyte, Ceralyte, and Infalyte are also good electrolyte sources and are especially recommended for use in children.</p>
 <p><strong>When should a doctor be consulted?</strong></p>
 <p>Diarrhea is not usually harmful, but it can become dangerous or signal a more serious problem. You should see the doctor if you experience any of the following:</p>
-<ul>
+<ul  class="arrow-list">
 <li>diarrhea for more than 3 days</li>
 <li>severe pain in the abdomen or rectum</li>
 <li>a fever of 102 degrees or higher</li>
@@ -125,8 +125,8 @@
 </ul>
 <p>How is the cause of diarrhea diagnosed?</p>
 <p><strong>Diagnostic tests to find the cause of diarrhea may include the following:</strong></p>
-<ul>
-<ul>
+<ul  class="arrow-list">
+<ul  class="arrow-list">
 <li><strong>Medical history and physical examination</strong> – The doctor will ask you about your eating habits and medication use and will examine you for signs of illness.</li>
 <li><strong>Stool culture</strong> – A sample of stool is analyzed in a laboratory to check for bacteria, parasites, or other signs of disease and infection.</li>
 <li><strong>Blood tests</strong> – Blood tests can be helpful in ruling out certain diseases.</li>
@@ -143,7 +143,7 @@
 <p>As you improve, you can add soft, bland foods to your diet, including bananas, plain rice, boiled potatoes, toast, crackers, cooked carrots, and baked chicken without the skin or fat. For children, the pediatrician may also recommend a bland diet. Once the diarrhea has stopped, the pediatrician will likely encourage children to return to a normal and healthy diet if it can be tolerated.</p>
 <p><strong>Preventing Traveler’s Diarrhea</strong></p>
 <p>Traveler’s diarrhea happens when you consume food or water contaminated with bacteria, viruses, or parasites. You can take the following precautions to prevent traveler’s diarrhea when you travel outside of the United States:</p>
-<ul>
+<ul  class="arrow-list">
 <li>Do not drink tap water or use it to brush your teeth.</li>
 <li>Do not drink unpasteurized milk or dairy products.</li>
 <li>Do not use ice made from tap water.</li>
@@ -155,7 +155,7 @@
 <p>You can safely drink bottled water — if you are the one to break the seal — along with carbonated soft drinks, and hot drinks such as coffee or tea.</p>
 <p>Depending on where you are going and how long you will stay, your doctor may recommend that you take antibiotics before leaving to protect you from possible infection.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Diarrhea is a common problem that usually resolves on its own.</li>
 <li>Diarrhea is dangerous if a person becomes dehydrated.</li>
 <li>Causes include viral, bacterial, parasitic infections, food intolerance, reactions to medicine, intestinal diseases, and functional bowel disorders.</li>

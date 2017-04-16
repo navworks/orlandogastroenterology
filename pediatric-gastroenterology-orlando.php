@@ -50,15 +50,27 @@
 		<div class="row">
 
 			<div class="col-sm-3">
-				<?php include 'includes/left.php'; ?>		
+				<?php include 'includes/left.php'; ?>	
+				
+				<?php include 'includes/three-blocks.php'; ?>
+
+				<?php include 'includes/testimonials-side.php'; ?>	
+
 			</div>
 
 			<div class="col-sm-9">
+
 				<h2 class="inner-content__mainhead"> <span>Pediatric Gastroenterologist</span> serving Orlando, Kissimmee, Clermont, FL </h2>
-				<img src="images/team-slider/sridargoli.jpg" class="img-responsive">			
-				<h1>Dr. Sridhar Goli, MD | Orlando Gastroenterology Pediatric Offering</h1>
+				<div class="col-sm-6 col-sm-offset-3">
+					<img src="images/team-slider/sridargoli.jpg" class="img-responsive img-thumbnail">			
+				</div>
+				<div class="clearfix"></div>
+					
 				<hr>
-				<h2>If you are looking for a children’s GI doctor in Orlando, FL, you are in the right place.</h2>
+				<blockquote class="alert bg-warning text-center img-thumbnail">
+					<h1 class="text-info">Dr. Sridhar Goli, MD | Orlando Gastroenterology Pediatric Offering</h1>
+				</blockquote>
+				<h3 class="text-warning">If you are looking for a children’s GI doctor in Orlando, FL, you are in the right place.</h3>
 				<p>Dr. Goli, a board certified pediatric gastroenterologist, is now seeing patients. Dr. Goli delights himself in making your child’s GI experience a positive one. His trained staff puts children and parents at ease, and each staff member strives to make what my be seen as a difficult process a manageable one.</p>
 				<p>He has years of experience and has been rated high on his bedside manner.</p>
 				<p>If you feel, your child needs to see a doctor specializing in children’s GI problems, we can help. Before we get into our offering, let’s talk about the need for a <em>great pediatric gastroenterologist</em>.</p>

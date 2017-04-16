@@ -66,7 +66,7 @@
 <p>The main symptoms of viral gastroenteritis are watery diarrhea and vomiting. Other symptoms are headache, fever, chills, and abdominal pain. Symptoms usually appear within 4 to 48 hours after exposure to the virus and last for 1 to 2 days, though symptoms can last as long as 10 days.</p>
 <p><strong>Causes</strong></p>
 <p>The viruses that cause viral gastroenteritis damage the cells in the lining of the small intestine. As a result, fluids leak from the cells into the intestine and produce watery diarrhea. Four types of viruses cause most viral gastroenteritis.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Rotavirus</strong> is the leading cause among children 3 to 15 months old and the most common cause of diarrhea in children under the age of 5 years. Symptoms of rotavirus infection appear 1 to 2 days after exposure. Rotavirus typically causes vomiting and watery diarrhea for 3 to 8 days, along with fever and abdominal pain. Rotavirus can also infect adults who are in close contact with infected children, but the symptoms in adults are milder. In the United States, rotavirus infections are most common from November to April.</li>
 <li><strong>Adenovirus</strong> occurs mainly in children under the age of 2 years. Of the 49 types of adenoviruses, one strain affects the gastrointestinal tract causing vomiting and diarrhea. Symptoms typically appear 1 week after exposure. Adenovirus infections occur year round.</li>
 <li><strong>Caliciviruses</strong> cause infection in people of all ages. This family of viruses is divided into 4 types, the noroviruses being the most common and most responsible for infecting people. The noroviruses are usually responsible for epidemics of viral gastroenteritis and occur more frequently from October to April. Infected people experience vomiting and diarrhea, fatigue, headache, and sometimes muscle aches. The symptoms appear within 1 to 3 days of exposure.</li>
@@ -83,7 +83,7 @@
 <p>Most cases of viral gastroenteritis resolve over time without specific treatment. Antibiotics are not effective against viral infections. The primary goal of treatment is to reduce the symptoms, and prompt treatment may be needed to prevent dehydration.</p>
 <p>Your body needs fluids to function. Dehydration is the loss of fluids from the body. Important salts or minerals, known as electrolytes, can also be lost with the fluids. Dehydration can be caused by diarrhea, vomiting, excessive urination, excessive sweating, or by not drinking enough fluids because of nausea, difficulty swallowing, or loss of appetite.</p>
 <p>In viral gastroenteritis, the combination of diarrhea and vomiting can cause dehydration. The symptoms of dehydration are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>excessive thirst</li>
 <li>dry mouth</li>
 <li>little or no urine or dark yellow urine</li>
@@ -94,7 +94,7 @@
 <p>If you notice any of these symptoms, you should talk to your doctor. Mild dehydration can be treated by drinking liquids. Severe dehydration may require intravenous fluids and hospitalization. Untreated severe dehydration can be life threatening.</p>
 <p>Children present special concerns. Because of their smaller body size, infants and children are at greater risk of dehydration from diarrhea and vomiting. Oral rehydration solutions such as Pedialyte can replace lost fluids, minerals, and salts.</p>
 <p>The following steps may help relieve the symptoms of viral gastroenteritis:</p>
-<ul>
+<ul  class="arrow-list">
 <li>Allow your gastrointestinal tract to settle by not eating for a few hours.</li>
 <li>Sip small amounts of clear liquids or suck on ice chips if vomiting is still a problem.</li>
 <li>Give infants and children oral rehydration solutions to replace fluids and lost electrolytes.</li>
@@ -104,7 +104,7 @@
 </ul>
 <p><strong>Prevention</strong></p>
 <p>Prevention is the best way to avoid viral gastroenteritis by following the tips listed below. No vaccine is available for viral gastroenteritis with the exception of a newly released rotavirus vaccine called Rotateq. The oral vaccine for infants aged 6 to 32 weeks was approved in February 2006 by the U.S. Food and Drug Administration. Otherwise, you can avoid infection by:</p>
-<ul>
+<ul  class="arrow-list">
 <li>washing your hands thoroughly for 20 seconds after using the bathroom or changing diapers</li>
 <li>washing your hands thoroughly for 20 seconds before eating</li>
 <li>disinfecting contaminated surfaces such as counter tops and baby changing stations</li>
@@ -113,7 +113,7 @@
 <p><strong>Hope through Research</strong></p>
 <p>The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), through its Division of Digestive Diseases, supports basic and clinical research into gastrointestinal diseases, including epithelial cell injury in the gastrointestinal tract. New vaccines under development may decrease the risk of infection, especially among infants and young children.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Viral gastroenteritis is a highly contagious infection of the intestines caused by one of several viruses.</li>
 <li>Although sometimes called “stomach flu,” viral gastroenteritis is not caused by the influenza virus and does not affect the stomach.</li>
 <li>The main symptoms are watery diarrhea and vomiting.</li>

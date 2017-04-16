@@ -73,7 +73,7 @@
 					<div class="col-md-8">
 						<h4>What problems can upper GI endoscopy detect?</h4>
 						<p>Upper GI endoscopy can detect:</p>
-						<ul>
+						<ul  class="arrow-list">
 							<li>Ulcer</li>
 							<li>Abnormal Growths</li>
 							<li>Precancerous Conditions</li>
@@ -86,7 +86,7 @@
 
 				<h4>When is upper GI endoscopy used?</h4>
 				<p>Upper GI endoscopy can be used to determine the cause of:</p>
-				<ul>
+				<ul  class="arrow-list">
 					<li>Abdominal Pain</li>
 					<li>Nausea</li>
 					<li>Vomiting</li>
@@ -109,7 +109,7 @@
 				<p>
 					Medications and vitamins that may be restricted before and after upper GI endoscopy include
 				</p>
-				<ul>
+				<ul  class="arrow-list">
 					<li>Non-steroidal anti-inflammatory drugs such as aspirin, ibuprofen (Advil), and naproxen (Aleve)</li>
 					<li>Blood thinners</li>
 					<li>Blood pressure medications</li>
@@ -136,7 +136,7 @@
 				<p>
 					Risks associated with upper GI endoscopy include
 				</p>
-				<ul>
+				<ul  class="arrow-list">
 					<li>abnormal reaction to sedatives</li>
 					<li>bleeding from biopsy</li>
 					<li>accidental puncture of the upper GI tract</li>
@@ -144,7 +144,7 @@
 				<p>
 					Patients who experience any of the following rare symptoms after upper GI endoscopy should contact their doctor immediately:
 				</p>
-				<ul>
+				<ul  class="arrow-list">
 					<li>swallowing difficulties</li>
 					<li>throat, chest, and abdominal pain that worsens</li>
 					<li>vomiting</li>

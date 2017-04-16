@@ -67,7 +67,7 @@
 <p><em>H. pylori</em> is able to survive in stomach acid because it secretes enzymes that neutralize the acid. This mechanism allows H. pylori to make its way to the “safe” area — the protective mucous lining. Once there, the bacterium’s spiral shape helps it burrow through the lining.</p>
 <p><strong>What are the symptoms of an ulcer?</strong></p>
 <p>Abdominal discomfort is the most common symptom. This discomfort usually:</p>
-<ul>
+<ul  class="arrow-list">
 <li>is a dull, gnawing ache</li>
 <li>comes and goes for several days or weeks</li>
 <li>occurs 2 to 3 hours after a meal</li>
@@ -76,7 +76,7 @@
 <li>is relieved by antacid medications</li>
 </ul>
 <p>Other symptoms include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>weight loss</li>
 <li>poor appetite</li>
 <li>bloating</li>
@@ -87,13 +87,13 @@
 <p>Some people experience only very mild symptoms, or none at all.</p>
 <p><span style="text-decoration: underline;">Emergency Symptoms</span></p>
 <p>If you have any of these symptoms, call your doctor right away:</p>
-<ul>
+<ul  class="arrow-list">
 <li>sharp, sudden, persistent stomach pain</li>
 <li>bloody or black stools</li>
 <li>bloody vomit or vomit that looks like coffee grounds</li>
 </ul>
 <p>They could be signs of a serious problem, such as:</p>
-<ul>
+<ul  class="arrow-list">
 <li>perforation — when the ulcer burrows through the stomach or duodenal wall</li>
 <li>bleeding — when acid or the ulcer breaks a blood vessel</li>
 <li>obstruction — when the ulcer blocks the path of food trying to leave the stomach</li>
@@ -108,7 +108,7 @@
 <p>Urea breath tests are an effective diagnostic method for <em>H. pylori</em>. They are also used after treatment to see whether it worked. In the doctor’s office, the patient drinks a urea solution that contains a special carbon atom. If <em>H. pylori</em> is present, it breaks down the urea, releasing the carbon. The blood carries the carbon to the lungs, where the patient exhales it. The breath test is 96 percent to 98 percent accurate.</p>
 <p>Stool tests may be used to detect <em>H. pylori</em> infection in the patient’s fecal matter. Studies have shown that this test, called the Helicobacter pylori stool antigen (HpSA) test, is accurate for diagnosing <em>H. pylori</em>.</p>
 <p>Tissue tests are usually done using the biopsy sample that is removed with the endoscope. There are three types:</p>
-<ul>
+<ul  class="arrow-list">
 <li>The rapid urease test detects the enzyme urease, which is produced by <em>H. pylori</em>.</li>
 <li>A histology test allows the doctor to find and examine the actual bacteria.</li>
 <li>A culture test involves allowing H. pylori to grow in the tissue sample.</li>
@@ -132,7 +132,7 @@
 <p>Changing medical belief and practice takes time. For nearly 100 years, scientists and doctors thought that ulcers were caused by stress, spicy food, and alcohol. Treatment involved bed rest and a bland diet. Later, researchers added stomach acid to the list of causes and began treating ulcers with antacids.</p>
 <p>Since <em>H. pylori</em> was discovered in 1982, studies conducted around the world have shown that using antibiotics to destroy <em>H. pylori</em> cures peptic ulcers. The prevalence of <em>H. pylori</em> ulcers is changing. The infection is becoming less common in people born in developed countries. The medical community, however, continues to debate <em>H. pylori</em>‘s role in peptic ulcers. If you have a peptic ulcer and have not been tested for <em>H. pylori</em> infection, talk to your doctor.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>A peptic ulcer is a sore in the lining of the stomach or duodenum.</li>
 <li>The majority of peptic ulcers are caused by the H. pylori bacterium. Many of the other cases are caused by NSAIDs. None are caused by spicy food or stress.</li>
 <li>H. pylori can be transmitted from person to person through close contact and exposure to vomit.</li>

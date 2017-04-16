@@ -63,7 +63,7 @@
 <p>Ulcerative colitis can occur in people of any age, but it usually starts between the ages of 15 and 30, and less frequently between 50 and 70 years of age. It affects men and women equally and appears to run in families, with reports of up to 20 percent of people with ulcerative colitis having a family member or relative with ulcerative colitis or Crohn’s disease. A higher incidence of ulcerative colitis is seen in Whites and people of Jewish descent.</p>
 <p><strong>What are the symptoms of ulcerative colitis?</strong></p>
 <p>The most common symptoms of ulcerative colitis are abdominal pain and bloody diarrhea. Patients also may experience:</p>
-<ul>
+<ul  class="arrow-list">
 <li>anemia</li>
 <li>fatigue</li>
 <li>weight loss</li>
@@ -87,7 +87,7 @@
 <p>Treatment for ulcerative colitis depends on the severity of the disease. Each person experiences ulcerative colitis differently, so treatment is adjusted for each individual.</p>
 <p><span style="text-decoration: underline;">Drug Therapy</span></p>
 <p>The goal of drug therapy is to induce and maintain remission, and to improve the quality of life for people with ulcerative colitis. Several types of drugs are available.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Aminosalicylates</strong>, drugs that contain 5-aminosalicyclic acid (5-ASA), help control inflammation. Sulfasalazine is a combination of sulfapyridine and 5-ASA. The sulfapyridine component carries the anti-inflammatory 5-ASA to the intestine. However, sulfapyridine may lead to side effects such as nausea, vomiting, heartburn, diarrhea, and headache. Other 5-ASA agents, such as olsalazine, mesalamine, and balsalazide, have a different carrier, fewer side effects, and may be used by people who cannot take sulfasalazine. 5-ASAs are given orally, through an enema, or in a suppository, depending on the location of the inflammation in the colon. Most people with mild or moderate ulcerative colitis are treated with this group of drugs first. This class of drugs is also used in cases of relapse.</li>
 <li><strong>Corticosteroids</strong> such as prednisone, methylprednisone, and hydrocortisone also reduce inflammation. They may be used by people who have moderate to severe ulcerative colitis or who do not respond to 5-ASA drugs. Corticosteroids, also known as steroids, can be given orally, intravenously, through an enema, or in a suppository, depending on the location of the inflammation. These drugs can cause side effects such as weight gain, acne, facial hair, hypertension, diabetes, mood swings, bone mass loss, and an increased risk of infection. For this reason, they are not recommended for long-term use, although they are considered very effective when prescribed for short-term use.</li>
 <li><strong>Immunomodulators</strong> such as azathioprine and 6-mercapto-purine (6-MP) reduce inflammation by affecting the immune system. These drugs are used for patients who have not responded to 5-ASAs or corticosteroids or who are dependent on corticosteroids. Immunomodulators are administered orally, however, they are slow-acting and it may take up to 6 months before the full benefit. Patients taking these drugs are monitored for complications including pancreatitis, hepatitis, a reduced white blood cell count, and an increased risk of infection. Cyclosporine A may be used with 6-MP or azathioprine to treat active, severe ulcerative colitis in people who do not respond to intravenous corticosteroids.</li>
@@ -99,7 +99,7 @@
 <p><span style="text-decoration: underline;">Surgery</span></p>
 <p>About 25 to 40 percent of ulcerative colitis patients must eventually have their colons removed because of massive bleeding, severe illness, rupture of the colon, or risk of cancer. Sometimes the doctor will recommend removing the colon if medical treatment fails or if the side effects of corticosteroids or other drugs threaten the patient’s health.</p>
 <p>Surgery to remove the colon and rectum, known as proctocolectomy, is followed by one of the following:</p>
-<ul>
+<ul  class="arrow-list">
 <li>Ileostomy, in which the surgeon creates a small opening in the abdomen, called a stoma, and attaches the end of the small intestine, called the ileum, to it. Waste will travel through the small intestine and exit the body through the stoma. The stoma is about the size of a quarter and is usually located in the lower right part of the abdomen near the beltline. A pouch is worn over the opening to collect waste, and the patient empties the pouch as needed.</li>
 <li>Ileoanal anastomosis, or pull-through operation, which allows the patient to have normal bowel movements because it preserves part of the anus. In this operation, the surgeon removes the colon and the inside of the rectum, leaving the outer muscles of the rectum. The surgeon then attaches the ileum to the inside of the rectum and the anus, creating a pouch. Waste is stored in the pouch and passes through the anus in the usual manner. Bowel movements may be more frequent and watery than before the procedure. Inflammation of the pouch (pouchitis) is a possible complication.</li>
 </ul>

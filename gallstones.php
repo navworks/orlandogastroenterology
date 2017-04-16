@@ -65,7 +65,7 @@
 <p>The two types of gallstones are cholesterol stones and pigment stones. Cholesterol stones are usually yellow-green and are made primarily of hardened cholesterol. They account for about 80 percent of gallstones. Pigment stones are small, dark stones made of bilirubin. Gallstones can be as small as a grain of sand or as large as a golf ball. The gallbladder can develop just one large stone, hundreds of tiny stones, or a combination of the two.</p>
 <p>The gallbladder and the ducts that carry bile and other digestive enzymes from the liver, gallbladder, and pancreas to the small intestine are called the biliary system.</p>
 <p>Gallstones can block the normal flow of bile if they move from the gallbladder and lodge in any of the ducts that carry bile from the liver to the small intestine. The ducts include the:</p>
-<ul>
+<ul  class="arrow-list">
 <li>hepatic ducts, which carry bile out of the liver</li>
 <li>cystic duct, which takes bile to and from the gallbladder</li>
 <li>common bile duct, which takes bile from the cystic and hepatic ducts to the small intestine</li>
@@ -76,7 +76,7 @@
 <p>Scientists believe cholesterol stones form when bile contains too much cholesterol, too much bilirubin, or not enough bile salts, or when the gallbladder does not empty completely or often enough. The reason these imbalances occur is not known.</p>
 <p>The cause of pigment stones is not fully understood. The stones tend to develop in people who have liver cirrhosis, biliary tract infections, or hereditary blood disorders — such as sickle cell anemia — in which the liver makes too much bilirubin.</p>
 <p>The mere presence of gallstones may cause more gallstones to develop. Other factors that contribute to the formation of gallstones, particularly cholesterol stones, include:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Sex</strong> – Women are twice as likely as men to develop gallstones. Excess estrogen from pregnancy, hormone replacement therapy, and birth control pills appears to increase cholesterol levels in bile and decrease gallbladder movement, which can lead to gallstones.</li>
 <li><strong>Family history</strong> – Gallstones often run in families, pointing to a possible genetic link.</li>
 <li><strong>Weight</strong> – A large clinical study showed that being even moderately overweight increases the risk for developing gallstones. The most likely reason is that the amount of bile salts in bile is reduced, resulting in more cholesterol. Increased cholesterol reduces gallbladder emptying. Obesity is a major risk factor for gallstones, especially in women.</li>
@@ -89,7 +89,7 @@
 </ul>
 <p><strong>Who is at risk for gallstones?</strong></p>
 <p>People at risk for gallstones include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>women — especially women who are pregnant, use hormone replacement therapy, or take birth control pills</li>
 <li>people over age 60</li>
 <li>American Indians</li>
@@ -102,14 +102,14 @@
 </ul>
 <p><strong>What are the symptoms of gallstones?</strong></p>
 <p>As gallstones move into the bile ducts and create blockage, pressure increases in the gallbladder and one or more symptoms may occur. Symptoms of blocked bile ducts are often called a gallbladder “attack” because they occur suddenly. Gallbladder attacks often follow fatty meals, and they may occur during the night. A typical attack can cause:</p>
-<ul>
+<ul  class="arrow-list">
 <li>steady pain in the right upper abdomen that increases rapidly and lasts from 30 minutes to several hours</li>
 <li>pain in the back between the shoulder blades</li>
 <li>pain under the right shoulder</li>
 </ul>
 <p>Notify your doctor if you think you have experienced a gallbladder attack. Although these attacks often pass as gallstones move, your gallbladder can become infected and rupture if a blockage remains.</p>
 <p>People with any of the following symptoms should see a doctor immediately:</p>
-<ul>
+<ul  class="arrow-list">
 <li>prolonged pain — more than 5 hours</li>
 <li>nausea and vomiting</li>
 <li>fever — even low-grade — or chills</li>
@@ -119,7 +119,7 @@
 <p>Many people with gallstones have no symptoms; these gallstones are called “silent stones.” They do not interfere with gallbladder, liver, or pancreas function and do not need treatment.</p>
 <p><strong>How are gallstones diagnosed?</strong></p>
 <p>Frequently, gallstones are discovered during tests for other health conditions. When gallstones are suspected to be the cause of symptoms, the doctor is likely to do an ultrasound exam — the most sensitive and specific test for gallstones. A handheld device, which a technician glides over the abdomen, sends sound waves toward the gallbladder. The sound waves bounce off the gallbladder, liver, and other organs, and their echoes make electrical impulses that create a picture of the gallbladder on a video monitor. If gallstones are present, the sound waves will bounce off them, too, showing their location. Other tests may also be performed.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Computerized tomography (CT) scan</strong> – The CT scan is a noninvasive x ray that produces cross-section images of the body. The test may show the gallstones or complications, such as infection and rupture of the gallbladder or bile ducts.</li>
 <li><strong>Cholescintigraphy (HIDA scan)</strong> – The patient is injected with a small amount of non-harmful radioactive material that is absorbed by the gallbladder, which is then stimulated to contract. The test is used to diagnose abnormal contraction of the gallbladder or obstruction of the bile ducts.</li>
 <li><strong>Endoscopic retrograde cholangiopancreatography (ERCP)</strong> – ERCP is used to locate and remove stones in the bile ducts. After lightly sedating you, the doctor inserts an endoscope — a long, flexible, lighted tube with a camera — down the throat and through the stomach and into the small intestine. The endoscope is connected to a computer and video monitor. The doctor guides the endoscope and injects a special dye that helps the bile ducts appear better on the monitor. The endoscope helps the doctor locate the affected bile duct and the gallstone. The stone is captured in a tiny basket and removed with the endoscope.</li>
@@ -141,7 +141,7 @@ Because gallstone symptoms may be similar to those of a heart attack, appendicit
 <p><strong>Do people need their gallbladder?</strong></p>
 <p>Fortunately, the gallbladder is an organ people can live without. Your liver produces enough bile to digest a normal diet. Once the gallbladder is removed, bile flows out of the liver through the hepatic ducts into the common bile duct and directly into the small intestine, instead of being stored in the gallbladder. Because now the bile flows into the small intestine more often, softer and more frequent stools can occur in about 1 percent of people. These changes are usually temporary, but talk with your health care provider if they persist.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Gallstones form when bile hardens in the gallbladder.</li>
 <li>Gallstones are more common among older adults; women; American Indians; Mexican Americans; people with diabetes; those with a family history of gallstones; people who are overweight, obese, or undergo rapid weight loss; and those taking cholesterol-lowering drugs.</li>
 <li>Gallbladder attacks often occur after eating a meal, especially one high in fat.</li>

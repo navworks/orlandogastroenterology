@@ -62,7 +62,7 @@
 <p><strong>What are the signs of bleeding in the digestive tract?</strong></p>
 <p>The signs of bleeding in the digestive tract depend on the site and severity of bleeding.</p>
 <p>Signs of bleeding in the upper digestive tract include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>bright red blood in vomit</li>
 <li>vomit that looks like coffee grounds</li>
 <li>black or tarry stool</li>
@@ -70,13 +70,13 @@
 <li>stool mixed or coated with bright red blood</li>
 </ul>
 <p>Signs of bleeding in the lower digestive tract include:</p>
-<ul>
+<ul   class="arrow-list">
 <li>black or tarry stool</li>
 <li>dark blood mixed with stool</li>
 <li>stool mixed or coated with bright red blood</li>
 </ul>
 <p>Sudden, severe bleeding is called acute bleeding. If acute bleeding occurs, symptoms may include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>weakness</li>
 <li>dizziness or faintness</li>
 <li>shortness of breath</li>
@@ -89,7 +89,7 @@
 <p>A person may not notice a small amount of bleeding in the digestive tract. This type of bleeding is called occult bleeding. Simple tests can detect occult blood in the stool.</p>
 <p><strong>What causes bleeding in the digestive tract?</strong></p>
 <p>A variety of conditions can cause bleeding in the digestive tract. Causes of bleeding in the upper digestive tract include the following:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Peptic ulcers</strong> – Helicobacter pylori (<em>H. pylori</em>) infections and long-term use of non-steroidal anti-inflammatory drugs (NSAIDs), such as aspirin and ibuprofen, are common causes of peptic ulcers.</li>
 <li><strong>Esophageal varices</strong> – Varices, or enlarged veins, located at the lower end of the esophagus may rupture and bleed massively. Cirrhosis is the most common cause of esophageal varices.</li>
 <li><strong>Mallory-Weiss tears</strong> – These tears in the lining of the esophagus usually result from vomiting. Increased pressure in the abdomen from coughing, hiatal hernia, or childbirth can also cause tears.</li>
@@ -98,7 +98,7 @@
 <li><strong>Benign tumors and cancer</strong> – A benign tumor is an abnormal tissue growth that is not cancerous. Benign tumors and cancer in the esophagus, stomach, or duodenum may cause bleeding.</li>
 </ul>
 <p>Causes of bleeding in the lower digestive tract include the following:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Diverticular disease</strong> – This disease is caused by diverticula — pouches in the colon wall.</li>
 <li><strong>Colitis</strong> – Infections, diseases such as Crohn’s disease, lack of blood flow to the colon, and radiation can cause colitis — inflammation of the colon.</li>
 <li><strong>Hemorrhoids or fissures</strong> – Hemorrhoids are enlarged veins in the anus or rectum that can rupture and bleed. Fissures, or ulcers, are cuts or tears in the anal area.</li>
@@ -116,14 +116,14 @@
 <p><span style="text-decoration: underline;">Enteroscopy</span></p>
 <p>Enteroscopy is an examination of the small intestine. Because traditional endoscopes cannot reach the small intestine, special endoscopes are used for enteroscopy.</p>
 <p>Enteroscopy procedures include:</p>
-<ul>
+<ul   class="arrow-list">
 <li><strong>Push enteroscopy</strong> – A long endoscope is used to examine the upper portion of the small intestine.</li>
 <li><strong>Double-balloon enteroscopy</strong> – Balloons are mounted on the endoscope to help the endoscope move through the entire small intestine.</li>
 <li><strong>Capsule endoscopy</strong> – The person swallows a capsule containing a tiny camera. The camera transmits images to a video monitor as the capsule passes through the digestive tract. This procedure is designed to examine the small intestine, but it also allows the doctor to examine the rest of the digestive tract.</li>
 </ul>
 <p><span style="text-decoration: underline;">Other Procedures</span></p>
 <p>Several other methods can help locate the source of bleeding:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Barium x-rays</strong> – Barium is a contrast material that makes the digestive tract visible in an x ray. A liquid containing barium is either swallowed or inserted into the rectum. Barium x rays are less accurate than endoscopy and may interfere with other diagnostic techniques.</li>
 <li><strong>Radionuclide scanning</strong> – The doctor injects small amounts of radioactive material into the person’s vein. A special camera, similar to an x-ray machine, can detect this radiation and create images of blood flow in the digestive tract. Radionuclide scanning is sensitive enough to detect very slow bleeding, but it is not as accurate as other procedures.</li>
 <li><strong>Angiography</strong> – A dye is injected into the person’s vein to make blood vessels visible in x-ray or computerized tomography (CT) scans. Dye leaks out of the blood vessels at the bleeding site. In some cases, the doctor can use angiography to inject medicine or other material into blood vessels to try to stop the bleeding.</li>
@@ -131,14 +131,14 @@
 </ul>
 <p><strong>How is bleeding in the digestive tract treated?</strong></p>
 <p>Endoscopy can be used to stop bleeding in the digestive tract. A doctor can insert tools through the endoscope to:</p>
-<ul>
+<ul  class="arrow-list">
 <li>inject chemicals into the bleeding site</li>
 <li>treat the bleeding site and surrounding tissue with a heat probe, electric current, or laser</li>
 <li>close affected blood vessels with a band or clip</li>
 </ul>
 <p>Endoscopy does not always control bleeding. Angiography can be used to inject medicine or other material into blood vessels to control some types of bleeding. If endoscopy and angiography do not work, the patient may need other treatments or surgery to stop the bleeding.</p>
 <p>To prevent bleeding in the future, doctors can treat the conditions that cause bleeding, such as:</p>
-<ul>
+<ul  class="arrow-list">
 <li><em>H. pylori</em> and other infections</li>
 <li>GERD</li>
 <li>ulcers</li>
@@ -147,7 +147,7 @@
 <li>inflammatory bowel diseases</li>
 </ul>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Bleeding in the digestive tract is a symptom of a disease rather than a disease itself.</li>
 <li>A number of different conditions can cause bleeding in the digestive tract.</li>
 <li>Finding the location and cause of the bleeding is important.</li>

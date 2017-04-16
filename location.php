@@ -82,7 +82,7 @@
 				        <tr>
 				          <td>Email</td>
 				          <td>:</td>
-				          <td><a href="mailto:info@http://orlandogastroenterology.com/" target="_blank">drurmilacentre2016@gmail.com</a></td>
+				          <td><a href="mailto:info@orlandogastroenterology.com/" target="_blank">info@orlandogastroenterology.com</a></td>
 				        </tr>
 				        <tr>
 				          <td>Website</td>

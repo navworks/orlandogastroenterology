@@ -3,8 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<meta name="keywords" content="Orlando Gastroenterology, P.A."/>
 	<meta name="description" content="Providing Adult and Pediatric Gastroenterology Services for Orlando, Kissimmee, and Clermont"/>
 	<meta name="subject" content="ISNSCCON 2017">
@@ -35,19 +34,18 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h2 data-animation="fadeInDown" class="banner__head text-primary">
-									Orlando Magazine names
-								</h2>
-								<h1 data-animation="zoomIn" class="text-primary">
-									Dr. Pothamsetty<br>
-								</h1>
-								<h3 data-animation="zoomIn" class="text-primary">
-									one of Orlando's Premier Doctors
-								</h3>
-								
+								<img src="images/slider/mag.jpg" class="img-responsive banner__img-center">
 							</div>
 							<div class="col-sm-6">
-								<img src="images/slider/mag.jpg" class="img-responsive banner__img-center">
+								<h2 data-animation="fadeInRight" class="banner__head text-primary blue-bg">
+									<span>Orlando Magazine names</span>
+								</h2>
+								<h1 data-animation="zoomIn" class="text-primary blue-bg no-mar-top">
+									<span>Dr. Pothamsetty</span>
+								</h1>
+								<h3 data-animation="zoomIn" class="text-primary blue-bg no-mar-top">
+									<span>one of Orlando's Premier Doctors</span>
+								</h3>								
 							</div>
 						</div>
 					</div>
@@ -55,18 +53,23 @@
 				<div class="swiper-slide" style="background-image:url(images/slider/banner1.jpg);">				
 					<div class="container">
 						<div class="row"><div class="col-sm-12">
-						<h1 data-animation="zoomIn" class="banner__tinted-head">
-							We are pleased to announce  that we now offer Saturday hours
-						</h1>
+							<h1 data-animation="fadeInLeft" class="blue-bg banner__head">
+								<span>We are pleased to announce</span><br>
+							</h1>
+							<h1 data-animation="fadeInRight" class="blue-bg banner__head no-mar-top">
+								<span>that we now offer Saturday hours</span>
+							</h1>
 						</div></div>
 					</div>
 				</div>
 				<div class="swiper-slide" src="images/slider/slider-bg.jpg" style="background-image:url(images/slider/banner2.jpg);">
 					<div class="container">
 						<div class="row"><div class="col-sm-12">
-						<h1 data-animation="zoomIn" class="banner__tinted-head ">
-							Congratulations to Dr. Pothamsetty for his appointment
-							to Assistant Professor of Medicine at the UCF College of Medicine.
+						<h1 data-animation="zoomIn" class="white-tint-bg">
+							<span>Congratulations to Dr. Pothamsetty for his appointment to </span>
+						</h1>
+						<h1 data-animation="zoomIn" class="no-mar-top white-tint-bg">
+							<span>Assistant Professor of Medicine at the UCF College of Medicine.</span>
 						</h1>
 						</div>
 					</div></div>
@@ -74,14 +77,15 @@
 				<div class="swiper-slide" style="background-image:url(images/slider/slider-bg.jpg);">
 					<div class="container">
 						<div class="row">
-							<div class="col-sm-6">
-								<h1 data-animation="zoomIn" class="banner__tinted-head col80">
-									Welcome Dr. Goli Pediatric Gastroenterologist, to our practice
-								</h1>
-								</div>
 								<div class="col-sm-6">
 									<img src="images/team-slider/sridargoli.jpg" class="img-responsive">
 								</div>
+								<div class="col-sm-6">
+								<h1 data-animation="flipInX" class="banner__tinted-head col80">
+									Welcome Dr. Goli Pediatric Gastroenterologist, to our practice
+								</h1>
+								</div>
+								
 						</div>
 					</div>
 				</div>
@@ -89,7 +93,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-6">
-								<h1 data-animation="slideInDown" class="banner__tinted-head col80">									
+								<h1 data-animation="flipInY" class="banner__tinted-head col80">									
 									Dr. Mejia<br>
 									announces new office location in Kissimmee
 								</h1>
@@ -376,9 +380,9 @@
 										</div>
 									</div>
 								</div>
-
 							</div>
 						</div>
+						
 						<div class="testimonial-next"><i class="icon-right"></i></div>
 						<div class="testimonial-prev"><i class="icon-left"></i></div>
 					</div>

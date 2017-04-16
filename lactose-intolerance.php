@@ -64,7 +64,7 @@
 
 <p>Lactose intolerance is a condition in which people have digestive symptoms—such as bloating, diarrhea, and gas—after eating or drinking milk or milk products.</p>
 <p>Lactase deficiency and lactose malabsorption may lead to lactose intolerance:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Lactase deficiency.</strong> In people who have a lactase deficiency, the small intestine produces low levels of lactase and cannot digest much lactose.</li>
 <li><strong>Lactose malabsorption.</strong> Lactase deficiency may cause lactose malabsorption. In lactose malabsorption, undigested lactose passes to the colon. The colon, part of the large intestine, absorbs water from stool and changes it from a liquid to a solid form. In the colon, bacteria break down undigested lactose and create fluid and gas. Not all people with lactase deficiency and lactose malabsorption have digestive symptoms.</li>
 </ul>
@@ -94,7 +94,7 @@ In the United States, some ethnic and racial populations are more likely to have
 		<p>[<a class="top" href="http://digestive.niddk.nih.gov/ddiseases/pubs/lactoseintolerance/index.aspx#top">Top</a>]</p>
 <h3 id="are">What are the symptoms of lactose intolerance?</h3>
 <p>Common symptoms of lactose intolerance include</p>
-<ul>
+<ul  class="arrow-list">
 <li>abdominal bloating, a feeling of fullness or swelling in the abdomen</li>
 <li>abdominal pain</li>
 <li>diarrhea</li>
@@ -108,21 +108,21 @@ In the United States, some ethnic and racial populations are more likely to have
 <p>[<a class="top" href="http://digestive.niddk.nih.gov/ddiseases/pubs/lactoseintolerance/index.aspx#top">Top</a>]</p>
 <h3 id="howis">How is lactose intolerance diagnosed?</h3>
 <p>A health care provider makes a diagnosis of lactose intolerance based on</p>
-<ul>
+<ul  class="arrow-list">
 <li>medical, family, and diet history, including a review of symptoms</li>
 <li>a physical exam</li>
 <li>medical tests</li>
 </ul>
 <p><strong>Medical, family, and diet history.</strong> A health care provider will take a medical, family, and diet history to help diagnose lactose intolerance. During this discussion, the health care provider will review a patient’s symptoms. However, basing a diagnosis on symptoms alone may be misleading because digestive symptoms can occur for many reasons other than lactose intolerance. For example, other conditions such as irritable bowel syndrome, celiac disease, inflammatory bowel disease, or small bowel bacterial overgrowth can cause digestive symptoms.</p>
 <p><strong>Physical exam.</strong> A physical exam may help diagnose lactose intolerance or rule out other conditions that cause digestive symptoms. During a physical exam, a health care provider usually</p>
-<ul>
+<ul  class="arrow-list">
 <li>checks for abdominal bloating</li>
 <li>uses a stethoscope to listen to sounds within the abdomen</li>
 <li>taps on the abdomen to check for tenderness or pain</li>
 </ul>
 <p>A health care provider may recommend eliminating all milk and milk products from a person’s diet for a short time to see if the symptoms resolve. Symptoms that go away when a person eliminates lactose from his or her diet may confirm the diagnosis of lactose intolerance.</p>
 <p><strong>Medical tests.</strong> A health care provider may order special tests to provide more information. Health care providers commonly use two tests to measure how well a person digests lactose:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Hydrogen breath test.</strong> This test measures the amount of hydrogen in a person’s breath. Normally, only a small amount of hydrogen is detectable in the breath when a person eats or drinks and digests lactose. However, undigested lactose produces high levels of hydrogen. For this test, the patient drinks a beverage that contains a known amount of lactose. A health care provider asks the patient to breathe into a balloon-type container that measures breath hydrogen level. In most cases, a health care provider performs this test at a hospital, on an outpatient basis. Smoking and some foods and medications may affect the accuracy of the results. A health care provider will tell the patient what foods or medications to avoid before the test.</li>
 <li><strong>Stool acidity test.</strong> Undigested lactose creates lactic acid and other fatty acids that a stool acidity test can detect in a stool sample. Health care providers sometimes use this test to check acidity in the stools of infants and young children. A child may also have glucose in his or her stool as a result of undigested lactose. The health care provider will give the child’s parent or caretaker a container for collecting the stool specimen. The parent or caretaker returns the sample to the health care provider, who sends it to a lab for analysis.</li>
 </ul>
@@ -281,7 +281,7 @@ In the United States, some ethnic and racial populations are more likely to have
 <p>Lactose is present in many food products and in some medications.</p>
 <h4>Food Products</h4>
 <p>Lactose is in all milk and milk products. Manufacturers also often add milk and milk products to boxed, canned, frozen, packaged, and prepared foods. People who have digestive symptoms after consuming a small quantity of lactose should be aware of the many food products that may contain even small amounts of lactose, such as</p>
-<ul>
+<ul  class="arrow-list">
 <li>bread and other baked goods</li>
 <li>waffles, pancakes, biscuits, cookies, and the mixes to make them</li>
 <li>processed breakfast foods such as doughnuts, frozen waffles and pancakes, toaster pastries, and sweet rolls</li>
@@ -298,7 +298,7 @@ In the United States, some ethnic and racial populations are more likely to have
 <li>nondairy whipped toppings</li>
 </ul>
 <p>People can check the ingredients on food labels to find possible sources of lactose in food products. If a food label includes any of the following words, the product contains lactose:</p>
-<ul>
+<ul  class="arrow-list">
 <li>milk</li>
 <li>lactose</li>
 <li>whey</li>
@@ -311,7 +311,7 @@ In the United States, some ethnic and racial populations are more likely to have
 <p>Some medications also contain lactose, including prescription medications such as birth control pills and over-the-counter medications such as products to treat stomach acid and gas. These medications most often cause symptoms in people with severe lactose intolerance. People with lactose intolerance who take medications that contain lactose should speak with their health care provider about other options.</p>
 <p>[<a class="top" href="http://digestive.niddk.nih.gov/ddiseases/pubs/lactoseintolerance/index.aspx#top">Top</a>]</p>
 <h3 id="points">Points to Remember</h3>
-<ul>
+<ul  class="arrow-list">
 <li>Lactose is a sugar found in milk and milk products.</li>
 <li>Lactose intolerance is a condition in which people have digestive symptoms—such as bloating, diarrhea, and gas—after eating or drinking milk or milk products.</li>
 <li>A health care provider makes a diagnosis of lactose intolerance based on medical, family, and diet history, including a review of symptoms; a physical exam; and medical tests.</li>

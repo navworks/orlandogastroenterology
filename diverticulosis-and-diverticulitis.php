@@ -95,7 +95,7 @@
 <p><strong>How is diverticular disease diagnosed?</strong></p>
 <p>To diagnose diverticular disease, the doctor asks about medical history, does a physical exam, and may perform one or more diagnostic tests. Because most people do not have symptoms, diverticulosis is often found through tests ordered for another ailment. For example, diverticulosis is often found during a colonoscopy done to screen for cancer or polyps or to evaluate complaints of pain or rectal bleeding.</p>
 <p>When taking a medical history, the doctor may ask about bowel habits, pain, other symptoms, diet, and medications. The physical exam usually involves a digital rectal exam. To perform this test, the doctor inserts a gloved, lubricated finger into the rectum to detect tenderness, blockage, or blood. The doctor may check stool for signs of bleeding and test blood for signs of infection. If diverticulitis is suspected, the doctor may order one of the following radiologic tests:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Abdominal ultrasound</strong> – Sound waves are sent toward the colon through a handheld device that a technician glides over the abdomen. The sound waves bounce off the colon and other organs, and their echoes make electrical impulses that create a picture — called a sonogram — on a video monitor. If the diverticula are inflamed, the sound waves will also bounce off of them, showing their location.</li>
 <li><strong>Computerized tomography (CT) scan</strong> – The CT scan is a noninvasive x-ray that produces cross-section images of the body. The doctor may inject dye into a vein and the person may be given a similar mixture to swallow. The person lies on a table that slides into a donut-shaped machine. The dye helps to show complications of diverticulitis such as perforations and abscesses.</li>
 </ul>
@@ -252,7 +252,7 @@ hot (oatmeal, Wheatena)</td>
 <p>Immediate surgery may be necessary when the patient has other complications, such as perforation, a large abscess, peritonitis, complete intestinal obstruction, or severe bleeding. In these cases, two surgeries may be needed because it is not safe to rejoin the colon right away. During the first surgery, the surgeon cleans the infected abdominal cavity, removes the portion of the affected colon, and performs a temporary colostomy, creating an opening, or stoma, in the abdomen. The end of the colon is connected to the opening to allow normal eating while healing occurs. Stool is collected in a pouch attached to the stoma. In the second surgery several months later, the surgeon rejoins the ends of the colon and closes the stoma.</p>
 <p>&nbsp;</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Diverticulosis occurs when small pouches called diverticula bulge outward through weak spots in the colon, or large intestine.</li>
 <li>Most people with diverticulosis never have any discomfort or symptoms.</li>
 <li>Diverticula form when pressure builds inside the colon wall, usually because of constipation.</li>
@@ -265,7 +265,7 @@ hot (oatmeal, Wheatena)</td>
 </ul>
 <p><strong>Hope through Research</strong></p>
 <p>The National Institute of Diabetes and Digestive and Kidney Diseases and the National Cancer Institute sponsor research programs to investigate diverticulosis and diverticulitis. Investigation continues in several areas, including:</p>
-<ul>
+<ul  class="arrow-list">
 <li>a possible link between diverticular disease and inflammatory bowel disease</li>
 <li>the management of recurrent diverticular disease</li>
 <li>the use of probiotics in the prevention and treatment of diverticular disease</li>

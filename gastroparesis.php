@@ -64,7 +64,7 @@
 <p><strong>What causes gastroparesis?</strong></p>
 <p>The most common cause of gastroparesis is diabetes. People with diabetes have high blood glucose, also called blood sugar, which in turn causes chemical changes in nerves and damages the blood vessels that carry oxygen and nutrients to the nerves. Over time, high blood glucose can damage the vagus nerve.</p>
 <p>Some other causes of gastroparesis are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>surgery on the stomach or vagus nerve</li>
 <li>viral infections</li>
 <li>anorexia nervosa or bulimia</li>
@@ -77,7 +77,7 @@
 <p>Many people have what is called idiopathic gastroparesis, meaning the cause is unknown and cannot be found even after medical tests.</p>
 <p><strong>What are the symptoms of gastroparesis?</strong></p>
 <p>Signs and symptoms of gastroparesis are</p>
-<ul>
+<ul  class="arrow-list">
 <li>heartburn</li>
 <li>pain in the upper abdomen</li>
 <li>nausea</li>
@@ -97,13 +97,13 @@
 <p>Gastroparesis can make diabetes worse by making blood glucose control more difficult. When food that has been delayed in the stomach finally enters the small intestine and is absorbed, blood glucose levels rise. Since gastroparesis makes stomach emptying unpredictable, a person’s blood glucose levels can be erratic and difficult to control.</p>
 <p><strong>How is gastroparesis diagnosed?</strong></p>
 <p>After performing a full physical exam and taking your medical history, your doctor may order several blood tests to check blood counts and chemical and electrolyte levels. To rule out an obstruction or other conditions, the doctor may perform the following tests:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Upper endoscopy</strong> – After giving you a sedative to help you become drowsy, the doctor passes a long, thin tube called an endoscope through your mouth and gently guides it down the throat, also called the esophagus, into the stomach. Through the endoscope, the doctor can look at the lining of the stomach to check for any abnormalities.</li>
 <li><strong>Ultrasound</strong> – To rule out gallbladder disease and pancreatitis as sources of the problem, you may have an ultrasound test, which uses harmless sound waves to outline and define the shape of the gallbladder and pancreas.</li>
 <li><strong>Barium x-ray</strong> – After fasting for 12 hours, you will drink a thick liquid called barium, which coats the stomach, making it show up on the x ray. If you have diabetes, your doctor may have special instructions about fasting. Normally, the stomach will be empty of all food after 12 hours of fasting. Gastroparesis is likely if the x ray shows food in the stomach. Because a person with gastroparesis can sometimes have normal emptying, the doctor may repeat the test another day if gastroparesis is suspected.</li>
 </ul>
 <p>Once other causes have been ruled out, the doctor will perform one of the following gastric emptying tests to confirm a diagnosis of gastroparesis.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Gastric emptying scintigraphy</strong> – This test involves eating a bland meal, such as eggs or egg substitute, that contains a small amount of a radioactive substance, called radioisotope, that shows up on scans. The dose of radiation from the radioisotope is not dangerous. The scan measures the rate of gastric emptying at 1, 2, 3, and 4 hours. When more than 10 percent of the meal is still in the stomach at 4 hours, the diagnosis of gastroparesis is confirmed.</li>
 <li><strong>Breath test</strong> – After ingestion of a meal containing a small amount of isotope, breath samples are taken to measure the presence of the isotope in carbon dioxide, which is expelled when a person exhales. The results reveal how fast the stomach is emptying.</li>
 <li><strong>SmartPill</strong> – Approved by the U.S. Food and Drug Administration (FDA) in 2006, the SmartPill is a small device in capsule form that can be swallowed. The device then moves through the digestive tract and collects information about its progress that is sent to a cell phone-sized receiver worn around your waist or neck. When the capsule is passed from the body with the stool in a couple of days, you take the receiver back to the doctor, who enters the information into a computer.</li>
@@ -112,7 +112,7 @@
 <p>Treatment of gastroparesis depends on the severity of the symptoms. In most cases, treatment does not cure gastroparesis — it is usually a chronic condition. Treatment helps you manage the condition so you can be as healthy and comfortable as possible.</p>
 <p><span style="text-decoration: underline;">Medication</span></p>
 <p>Several medications are used to treat gastroparesis. Your doctor may try different medications or combinations to find the most effective treatment. Discussing the risk of side effects of any medication with your doctor is important.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Metoclopramide (Reglan)</strong> – This drug stimulates stomach muscle contractions to help emptying. Metoclopramide also helps reduce nausea and vomiting. Metoclopramide is taken 20 to 30 minutes before meals and at bedtime. Side effects of this drug include fatigue, sleepiness, depression, anxiety, and problems with physical movement.</li>
 <li><strong>Erythromycin</strong> – This antibiotic also improves stomach emptying. It works by increasing the contractions that move food through the stomach. Side effects include nausea, vomiting, and abdominal cramps.</li>
 <li><strong>Domperidone</strong> – This drug works like metoclopramide to improve stomach emptying and decrease nausea and vomiting. The FDA is reviewing domperidone, which has been used elsewhere in the world to treat gastroparesis. Use of the drug is restricted in the United States.</li>
@@ -136,14 +136,14 @@
 <p>The doctor will suggest dietary changes such as six smaller meals to help restore your blood glucose to more normal levels before testing you for gastroparesis. In some cases, the doctor or dietitian may suggest you try eating several liquid or pureed meals a day until your blood glucose levels are stable and the symptoms improve. Liquid meals provide all the nutrients found in solid foods, but can pass through the stomach more easily and quickly.</p>
 <p><span style="text-decoration: underline;">Insulin for Blood Glucose Control</span></p>
 <p>If you have gastroparesis, food is being absorbed more slowly and at unpredictable times. To control blood glucose, you may need to:</p>
-<ul>
+<ul  class="arrow-list">
 <li>take insulin more often or change the type of insulin you take</li>
 <li>take your insulin after you eat instead of before</li>
 <li>check your blood glucose levels frequently after you eat and administer insulin whenever necessary</li>
 </ul>
 <p>Your doctor will give you specific instructions for taking insulin based on your particular needs.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Gastroparesis is the result of damage to the vagus nerve, which controls the movement of food through the digestive system. Instead of moving through the digestive tract normally, the food is retained in the stomach.</li>
 <li>Gastroparesis may occur in people with type 1 diabetes or type 2 diabetes. The vagus nerve becomes damaged after years of high blood glucose, resulting in gastroparesis. In turn, gastroparesis contributes to poor blood glucose control.</li>
 <li>Symptoms of gastroparesis include early fullness, abdominal pain, stomach spasms, heartburn, nausea, vomiting, bloating, gastroesophageal reflux, lack of appetite, and weight loss.</li>

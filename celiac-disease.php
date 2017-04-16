@@ -63,7 +63,7 @@
 <p>Celiac disease is both a disease of malabsorption — meaning nutrients are not absorbed properly — and an abnormal immune reaction to gluten. Celiac disease is also known as celiac sprue, nontropical sprue, and gluten-sensitive enteropathy. Celiac disease is genetic, meaning it runs in families. Sometimes the disease is triggered — or becomes active for the first time — after surgery, pregnancy, childbirth, viral infection, or severe emotional stress.</p>
 <p><strong>What are the symptoms of celiac disease?</strong></p>
 <p>Symptoms of celiac disease vary from person to person. Symptoms may occur in the digestive system or in other parts of the body. Digestive symptoms are more common in infants and young children and may include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>abdominal bloating and pain</li>
 <li>chronic diarrhea</li>
 <li>vomiting</li>
@@ -73,7 +73,7 @@
 </ul>
 <p>Irritability is another common symptom in children. Malabsorption of nutrients during the years when nutrition is critical to a child’s normal growth and development can result in other problems such as failure to thrive in infants, delayed growth and short stature, delayed puberty, and dental enamel defects of the permanent teeth.</p>
 <p>Adults are less likely to have digestive symptoms and may instead have one or more of the following:</p>
-<ul>
+<ul  class="arrow-list">
 <li>unexplained iron-deficiency anemia</li>
 <li>fatigue</li>
 <li>bone or joint pain</li>
@@ -93,7 +93,7 @@
 <p>Symptoms also vary depending on a person’s age and the degree of damage to the small intestine. Many adults have the disease for a decade or more before they are diagnosed. The longer a person goes undiagnosed and untreated, the greater the chance of developing long-term complications.</p>
 <p><strong>What other health problems do people with celiac disease have?</strong></p>
 <p>People with celiac disease tend to have other diseases in which the immune system attacks the body’s healthy cells and tissues. The connection between celiac disease and these diseases may be genetic. They include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>type 1 diabetes</li>
 <li>autoimmune thyroid disease</li>
 <li>autoimmune liver disease</li>
@@ -179,7 +179,7 @@
 </div>
 <p>&nbsp;</p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foods To Avoid</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>wheat</li>
 <li>– including einkorn, emmer, spelt, kamut</li>
 <li>– wheat starch, wheat bran, wheat germ, cracked wheat, hydrolyzed wheat protein</li>
@@ -253,7 +253,7 @@
 <p>&nbsp;</p>
 <p>* Most of these foods can be found gluten-free. When in doubt, check with the food manufacturer. Source: Thompson T. Celiac Disease Nutrition Guide, 2nd ed. Chicago: American Dietetic Association; 2006. © American Dietetic Association. Adapted with permission. For a complete copy of the Celiac Disease Nutrition Guide, please visit <a href="http://www.eatright.org/" target="_blank">www.eatright.org</a>.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>People with celiac disease cannot tolerate gluten, a protein in wheat, rye, and barley.</li>
 <li>Untreated celiac disease damages the small intestine and interferes with nutrient absorption.</li>
 <li>Without treatment, people with celiac disease can develop complications such as osteoporosis, anemia, and cancer.</li>

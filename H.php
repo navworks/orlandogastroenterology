@@ -71,7 +71,7 @@ Researchers are not certain how people contract H. pylori, but they think it may
 <h4>What are the symptoms of an ulcer?</H4>
 
 <p>Abdominal discomfort is the most common symptom. This discomfort usually:</p>
-				<ul>
+				<ul  class="arrow-list">
 				<li>s a dull, gnawing ache</li>
 				<li>comes and goes for several days or weeks</li>
 				<li>occurs 2 to 3 hours after a meal</li>

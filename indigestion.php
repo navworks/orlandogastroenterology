@@ -67,7 +67,7 @@
 <p>Sometimes a person has indigestion for which a cause cannot be found. This type of indigestion, called functional dyspepsia, is thought to occur in the area where the stomach meets the small intestine. The indigestion may be related to abnormal motility — the squeezing or relaxing action — of the stomach muscle as it receives, digests, and moves food into the small intestine.</p>
 <p><strong>What are the symptoms of indigestion?</strong></p>
 <p>Most people with indigestion experience more than one of the following symptoms:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Fullness during a meal</strong> – The person feels overly full soon after the meal starts and cannot finish the meal.</li>
 <li><strong>Bothersome fullness after a meal</strong> – The person feels overly full after a meal — it may feel like the food is staying in the stomach too long.</li>
 <li><strong>Epigastric pain</strong> – The epigastric area is between the lower end of the chest bone and the navel. The person may experience epigastric pain ranging from mild to severe.</li>
@@ -80,7 +80,7 @@
 <p>The doctor may perform blood, breath, or stool tests if the type of bacteria that causes peptic ulcer disease is suspected as the cause of indigestion.</p>
 <p>The doctor may perform an upper endoscopy. After giving a sedative to help the person become drowsy, the doctor passes an endoscope — a long, thin tube that has a light and small camera on the end — through the mouth and gently guides it down the esophagus into the stomach. The doctor can look at the esophagus and stomach with the endoscope to check for any abnormalities. The doctor may perform biopsies — removing small pieces of tissue for examination with a microscope — to look for possible damage from GERD or an infection.</p>
 <p>Because indigestion can be a sign of a more serious condition, people should see a doctor right away if they experience:</p>
-<ul>
+<ul  class="arrow-list">
 <li>frequent vomiting</li>
 <li>blood in vomit</li>
 <li>weight loss or loss of appetite</li>
@@ -92,7 +92,7 @@
 </ul>
 <p><strong>How is indigestion treated?</strong></p>
 <p>Some people may experience relief from symptoms of indigestion by:</p>
-<ul>
+<ul  class="arrow-list">
 <li>eating several small, low-fat meals throughout the day at a slow pace</li>
 <li>refraining from smoking</li>
 <li>abstaining from consuming coffee, carbonated beverages, and alcohol</li>
@@ -107,7 +107,7 @@
 <p><strong>Prokinetics</strong> such as metoclopramide (Reglan) may be helpful for people who have a problem with the stomach emptying too slowly. Metoclopramide also improves muscle action in the digestive tract. Prokinetics have frequent side effects that limit their usefulness, including fatigue, sleepiness, depression, anxiety, and involuntary muscle spasms or movements.</p>
 <p>If testing shows the type of bacteria that causes peptic ulcer disease, the doctor may prescribe antibiotics to treat the condition.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Indigestion, also known as dyspepsia, is a term used to describe one or more symptoms including a feeling of fullness during a meal, uncomfortable fullness after a meal, and burning or pain in the upper abdomen.</li>
 <li>Indigestion can be caused by a condition in the digestive tract such as gastroesophageal reflux disease (GERD), peptic ulcer disease, cancer, or abnormality of the pancreas or bile ducts.</li>
 <li>Sometimes a person has indigestion for which a cause cannot be found. This type of indigestion is called functional dyspepsia.</li>
@@ -118,7 +118,7 @@
 </ul>
 <p><strong>Hope through Research</strong></p>
 <p>The National Institute of Diabetes and Digestive and Kidney Diseases’ Division of Digestive Diseases and Nutrition supports basic and clinical research into gastrointestinal motility disorders, including indigestion. Further research is needed in the areas of</p>
-<ul>
+<ul  class="arrow-list">
 <li>the role of gastric hypersensitivity in indigestion</li>
 <li>the relationship between indigestion and psychological disorders</li>
 <li>new drug therapies for indigestion</li>

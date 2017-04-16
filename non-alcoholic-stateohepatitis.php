@@ -70,14 +70,14 @@
 <p><strong>Causes</strong></p>
 <p>Although NASH has become more common, its underlying cause is still not clear. It most often occurs in persons who are middle-aged and overweight or obese. Many patients with NASH have elevated blood lipids, such as cholesterol and triglycerides, and many have diabetes or pre-diabetes, but not every obese person or every patient with diabetes has NASH. Furthermore, some patients with NASH are not obese, do not have diabetes, and have normal blood cholesterol and lipids. NASH can occur without any apparent risk factor and can even occur in children. Thus, NASH is not simply obesity that affects the liver.</p>
 <p>While the underlying reason for the liver injury that causes NASH is not known, several factors are possible candidates:</p>
-<ul>
+<ul  class="arrow-list">
 <li>insulin resistance</li>
 <li>release of toxic inflammatory proteins by fat cells (cytokines)</li>
 <li>oxidative stress (deterioration of cells) inside liver cells</li>
 </ul>
 <p><strong>Treatment</strong></p>
 <p>Currently, no specific therapies for NASH exist. The most important recommendations given to persons with this disease are to:</p>
-<ul>
+<ul  class="arrow-list">
 <li>reduce their weight (if obese or overweight)</li>
 <li>follow a balanced and healthy diet</li>
 <li>increase physical activity</li>
@@ -92,7 +92,7 @@
 <p>What is most needed in the management of NASH is more research to better understand the liver injury found in this disease. When the pathways that lead to the injury are fully known, safe and effective means can be developed to reverse these pathways and help patients with NASH. Recent breakthroughs in mapping the human genome and uncovering the individual steps by which insulin and other hormones regulate blood glucose and fat could provide the necessary clues.</p>
 <p>The National Institute of Diabetes and Digestive and Kidney Diseases funds the NASH Clinical Research Network, which comprises eight clinical centers located throughout the United States and a coordinating center at Johns Hopkins University. The NASH network researches the nature and underlying cause of NASH and conducts clinical studies on prevention and treatment. More information on the NASH Clinical Research Network and the locations of the clinical centers are available at <a href="http://www.jhucct.com/nash/" target="_blank">www.jhucct.com/nash/</a>.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Non-alcoholic steatohepatitis (NASH) is fat in the liver, with inflammation and damage.</li>
 <li>NASH occurs in people who drink little or no alcohol and affects 2 to 5 percent of Americans, especially people who are middle-aged and overweight or obese.</li>
 <li>NASH can occur in children.</li>

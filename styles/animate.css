@@ -7,6 +7,13 @@
  *
  * Copyright (c) 2016 Daniel Eden
  */
+.small-blocks::before,
+.zoom-and-hover img {
+  transition: all 0.18s ease-in-out 0s;
+}
+
+
+
 
 .animated {
   -webkit-animation-duration: 1s;
@@ -3345,3 +3352,5 @@
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
+
+ 

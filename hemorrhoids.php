@@ -68,7 +68,7 @@
 				<p>Stay hydrated and make sure that your stool is pliable and easy to pass.</p>
 				<p>Make sure that you are supplementing with fiber such as Citrucel if you are prone to a diet low in fiber.</p>
 				<p>There are several types of methods used to treat hemorrhoids:</p>
-				<ul>
+				<ul  class="arrow-list">
 				  <li><strong>Rubber band ligation</strong> – A rubber band is placed around the base of the hemorrhoid inside the rectum. The band cuts off circulation, and the hemorrhoid withers away within a few days.</li>
 				  <li><strong>Sclerotherapy</strong> – A chemical solution is injected around the blood vessel to shrink the hemorrhoid.</li>
 				  <li><strong>Infrared coagulation</strong> – A special device is used to burn hemorrhoidal tissue.</li>

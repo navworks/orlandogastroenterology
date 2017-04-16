@@ -67,7 +67,7 @@
 <p>To understand what causes constipation, it helps to know how the large intestine works. The large intestine removes most of the water from stool and changes it to a solid waste. The large intestine then moves the stool through the rectum and anus as a bowel movement.</p>
 <p>Constipation occurs when stool passes through the large intestine too slowly. When stool stays in the large intestine too long, the intestine removes too much water, and the stool becomes hard and dry.</p>
 <p>Some lifestyle habits that may cause constipation include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>changing your normal diet, exercise, or travel habits</li>
 <li>ignoring the urge to have a bowel movement</li>
 <li>feeling a lot of stress</li>
@@ -77,7 +77,7 @@
 <li>taking medicines such as painkillers with codeine; diuretics, also known as water pills; medicine for depression; and some antacids</li>
 </ul>
 <p>Some medical conditions that may cause constipation include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>pregnancy or having given birth</li>
 <li>problems with the muscles and nerves in the intestine, rectum, or anus</li>
 <li>irritable bowel syndrome, a condition in which the nerves that control the muscles in the intestine don’t function correctly; the intestine becomes sensitive to food, stool, gas, and stress</li>
@@ -86,7 +86,7 @@
 </ul>
 <p><strong>What tests are done to find the causes of constipation?</strong></p>
 <p>To find out why you have constipation, your doctor will perform a complete physical examination. The doctor may also order one or more tests if a serious problem is suspected as the cause of constipation.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Sigmoidoscopy</strong> – The doctor puts a thin, flexible tube called a sigmoidoscope into the rectum. This scope can show the last third of your large intestine.</li>
 <li><strong>Colonoscopy</strong> – The doctor looks at the entire large intestine with a long, flexible tube with a camera that shows images on a TV screen. The tube is like a sigmoidoscope but longer. You receive medicine to help you sleep during a colonoscopy.</li>
 <li><strong>Colorectal transit study</strong> – For this test, you swallow small capsules that can be seen on an x-ray as they move through the large intestine and anus.</li>
@@ -164,11 +164,11 @@
 <p><em><strong>7. Follow any special treatments your doctor recommends.</strong></em></p>
 <p>If you have problems with the muscles and nerves that control bowel movements, your doctor may suggest biofeedback. Biofeedback is a painless process that uses sensors in the rectal area to help you feel the stool and move it out of the rectum. Doing biofeedback with a trained therapist has been shown to help some people with constipation.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Constipation may be present if you have three or fewer bowel movements in a week or if the stool is hard, dry, painful, or difficult to pass.</li>
 <li>Constipation affects almost everyone at one time or another.</li>
 <li>In most cases, following these simple steps will help prevent constipation:
-<ul>
+<ul  class="arrow-list">
 <li>Eat a variety of foods, especially vegetables, fruits, and grains.</li>
 <li>Drink plenty of liquids.</li>
 <li>Exercise regularly.</li>

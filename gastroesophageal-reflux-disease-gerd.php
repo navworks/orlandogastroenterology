@@ -68,13 +68,13 @@
 <p><strong>What causes GERD?</strong></p>
 <p>The reason some people develop GERD is still unclear. However, research shows that in people with GERD, the LES relaxes while the rest of the esophagus is working. Anatomical abnormalities such as a hiatal hernia may also contribute to GERD. A hiatal hernia occurs when the upper part of the stomach and the LES move above the diaphragm, the muscle wall that separates the stomach from the chest. Normally, the diaphragm helps the LES keep acid from rising up into the esophagus. When a hiatal hernia is present, acid reflux can occur more easily. A hiatal hernia can occur in people of any age and is most often a normal finding in otherwise healthy people over age 50. Most of the time, a hiatal hernia produces no symptoms.</p>
 <p>Other factors that may contribute to GERD include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>obesity</li>
 <li>pregnancy</li>
 <li>smoking</li>
 </ul>
 <p>Common foods that can worsen reflux symptoms include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>citrus fruits</li>
 <li>chocolate</li>
 <li>drinks with caffeine or alcohol</li>
@@ -87,7 +87,7 @@
 <p><strong>What is GERD in children?</strong></p>
 <p>Distinguishing between normal, physiologic reflux and GERD in children is important. Most infants with GER are happy and healthy even if they frequently spit up or vomit, and babies usually outgrow GER by their first birthday. Reflux that continues past 1 year of age may be GERD. Studies show GERD is common and may be overlooked in infants and children. For example, GERD can present as repeated regurgitation, nausea, heartburn, coughing, laryngitis, or respiratory problems like wheezing, asthma, or pneumonia. Infants and young children may demonstrate irritability or arching of the back, often during or immediately after feedings. Infants with GERD may refuse to feed and experience poor growth.</p>
 <p>Talk with your child’s health care provider if reflux-related symptoms occur regularly and cause your child discomfort. Your health care provider may recommend simple strategies for avoiding reflux, such as burping the infant several times during feeding or keeping the infant in an upright position for 30 minutes after feeding. If your child is older, your health care provider may recommend that your child eat small, frequent meals and avoid the following foods:</p>
-<ul>
+<ul  class="arrow-list">
 <li>sodas that contain caffeine</li>
 <li>chocolate</li>
 <li>peppermint</li>
@@ -99,7 +99,7 @@
 <p><strong>How is GERD treated?</strong></p>
 <p>See your health care provider if you have had symptoms of GERD and have been using antacids or other over-the-counter reflux medications for more than 2 weeks. Your health care provider may refer you to a gastroenterologist, a doctor who treats diseases of the stomach and intestines. Depending on the severity of your GERD, treatment may involve one or more of the following lifestyle changes, medications, or surgery.</p>
 <p><span style="text-decoration: underline;">Lifestyle Changes</span></p>
-<ul>
+<ul  class="arrow-list">
 <li>If you smoke, stop.</li>
 <li>Avoid foods and beverages that worsen symptoms.</li>
 <li>Lose weight if needed.</li>
@@ -119,7 +119,7 @@
 <p>Because drugs work in different ways, combinations of medications may help control symptoms. People who get heartburn after eating may take both antacids and H2 blockers. The antacids work first to neutralize the acid in the stomach, and then the H2 blockers act on acid production. By the time the antacid stops working, the H2 blocker will have stopped acid production. Your health care provider is the best source of information about how to use medications for GERD.</p>
 <p><strong>What if GERD symptoms persist?</strong></p>
 <p>If your symptoms do not improve with lifestyle changes or medications, you may need additional tests.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Barium swallow radiograph</strong> uses x rays to help spot abnormalities such as a hiatal hernia and other structural or anatomical problems of the esophagus. With this test, you drink a solution and then x rays are taken. The test will not detect mild irritation, although strictures — narrowing of the esophagus — and ulcers can be observed.</li>
 <li><strong>Upper endoscopy</strong> is more accurate than a barium swallow radiograph and may be performed in a hospital or a doctor’s office. The doctor may spray your throat to numb it and then, after lightly sedating you, will slide a thin, flexible plastic tube with a light and lens on the end called an endoscope down your throat. Acting as a tiny camera, the endoscope allows the doctor to see the surface of the esophagus and search for abnormalities. If you have had moderate to severe symptoms and this procedure reveals injury to the esophagus, usually no other tests are needed to confirm GERD. The doctor also may perform a biopsy. Tiny tweezers, called forceps, are passed through the endoscope and allow the doctor to remove small pieces of tissue from your esophagus. The tissue is then viewed with a microscope to look for damage caused by acid reflux and to rule out other problems if infection or abnormal growths are not found.</li>
 <li><strong>pH monitoring examination</strong> involves the doctor either inserting a small tube into the esophagus or clipping a tiny device to the esophagus that will stay there for 24 to 48 hours. While you go about your normal activities, the device measures when and how much acid comes up into your esophagus. This test can be useful if combined with a carefully completed diary — recording when, what, and amounts the person eats — which allows the doctor to see correlations between symptoms and reflux episodes. The procedure is sometimes helpful in detecting whether respiratory symptoms, including wheezing and coughing, are triggered by reflux.</li>
@@ -135,7 +135,7 @@
 <p>Studies have shown that GERD may worsen or contribute to asthma, chronic cough, and pulmonary fibrosis.</p>
 <p>For information about Barrett’s esophagus, see the <a href="http://greaterorlandogi.com/services/barretts-esophagus/" target="_blank">Barrett’s esophagus fact sheet</a> from the NIDDK.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Frequent heartburn, also called acid indigestion, is the most common symptom of GERD in adults. Anyone experiencing heartburn twice a week or more may have GERD.</li>
 <li>You can have GERD without having heartburn. Your symptoms could include a dry cough, asthma symptoms, or trouble swallowing.</li>
 <li>If you have been using antacids for more than 2 weeks, it is time to see your health care provider. Most doctors can treat GERD. Your health care provider may refer you to a gastroenterologist, a doctor who treats diseases of the stomach and intestines.</li>

@@ -53,6 +53,9 @@ $(document).ready(function(){
 		    }
 		}
 	});
+	var innerTestimonialSwiper = new Swiper('.sidebar-testimonials',{
+        autoplay: 4000,
+	});
 
 
 	$('.wp').waypoint(function(direction) {		

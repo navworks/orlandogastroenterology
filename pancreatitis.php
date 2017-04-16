@@ -67,7 +67,7 @@
 <p>Acute pancreatitis is inflammation of the pancreas that occurs suddenly and usually resolves in a few days with treatment. Acute pancreatitis can be a life-threatening illness with severe complications. Each year, about 210,000 people in the United States are admitted to the hospital with acute pancreatitis.1 The most common cause of acute pancreatitis is the presence of gallstones — small, pebble-like substances made of hardened bile — that cause inflammation in the pancreas as they pass through the common bile duct. Chronic, heavy alcohol use is also a common cause. Acute pancreatitis can occur within hours or as long as 2 days after consuming alcohol. Other causes of acute pancreatitis include abdominal trauma, medications, infections, tumors, and genetic abnormalities of the pancreas.</p>
 <p><span style="text-decoration: underline;">Symptoms</span></p>
 <p>Acute pancreatitis usually begins with gradual or sudden pain in the upper abdomen that sometimes extends through the back. The pain may be mild at first and feel worse after eating. But the pain is often severe and may become constant and last for several days. A person with acute pancreatitis usually looks and feels very ill and needs immediate medical attention. Other symptoms may include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>a swollen and tender abdomen</li>
 <li>nausea and vomiting</li>
 <li>fever</li>
@@ -77,7 +77,7 @@
 <p><span style="text-decoration: underline;">Diagnosis</span></p>
 <p>While asking about a person’s medical history and conducting a thorough physical examination, the doctor will order a blood test to assist in the diagnosis. During acute pancreatitis, the blood contains at least three times the normal amount of amylase and lipase, digestive enzymes formed in the pancreas. Changes may also occur in other body chemicals such as glucose, calcium, magnesium, sodium, potassium, and bicarbonate. After the person’s condition improves, the levels usually return to normal.</p>
 <p>Diagnosing acute pancreatitis is often difficult because of the deep location of the pancreas. The doctor will likely order one or more of the following tests:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Abdominal ultrasound</strong> – Sound waves are sent toward the pancreas through a handheld device that a technician glides over the abdomen. The sound waves bounce off the pancreas, gallbladder, liver, and other organs, and their echoes make electrical impulses that create a picture — called a sonogram — on a video monitor. If gallstones are causing inflammation, the sound waves will also bounce off them, showing their location.</li>
 <li><strong>Computerized tomography (CT) scan</strong> – The CT scan is a noninvasive x ray that produces three-dimensional pictures of parts of the body. The person lies on a table that slides into a donut-shaped machine. The test may show gallstones and the extent of damage to the pancreas.</li>
 <li><strong>Endoscopic ultrasound (EUS)</strong> – After spraying a solution to numb the patient’s throat, the doctor inserts an endoscope — a thin, flexible, lighted tube — down the throat, through the stomach, and into the small intestine. The doctor turns on an ultrasound attachment to the scope that produces sound waves to create visual images of the pancreas and bile ducts.</li>
@@ -92,7 +92,7 @@
 <p>Soon after a person is admitted to the hospital with suspected narrowing of the pancreatic duct or bile ducts, a physician with specialized training performs ERCP.</p>
 <p>After lightly sedating the patient and giving medication to numb the throat, the doctor inserts an endoscope — a long, flexible, lighted tube with a camera — through the mouth, throat, and stomach into the small intestine. The endoscope is connected to a computer and screen. The doctor guides the endoscope and injects a special dye into the pancreatic or bile ducts that helps the pancreas, gallbladder, and bile ducts appear on the screen while x rays are taken.</p>
 <p>The following procedures can be performed using ERCP:</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Sphincterotomy</strong> – Using a small wire on the endoscope, the doctor finds the muscle that surrounds the pancreatic duct or bile ducts and makes a tiny cut to enlarge the duct opening. When a pseudocyst is present, the duct is drained.</li>
 <li><strong>Gallstone removal</strong> – The endoscope is used to remove pancreatic or bile duct stones with a tiny basket. Gallstone removal is sometimes performed along with a sphincterotomy.</li>
 <li><strong>Stent placement</strong> – Using the endoscope, the doctor places a tiny piece of plastic or metal that looks like a straw in a narrowed pancreatic or bile duct to keep it open.</li>
@@ -108,7 +108,7 @@
 <p>Chronic pancreatitis is inflammation of the pancreas that does not heal or improve — it gets worse over time and leads to permanent damage. Chronic pancreatitis, like acute pancreatitis, occurs when digestive enzymes attack the pancreas and nearby tissues, causing episodes of pain. Chronic pancreatitis often develops in people who are between the ages of 30 and 40.</p>
 <p>The most common cause of chronic pancreatitis is many years of heavy alcohol use. The chronic form of pancreatitis can be triggered by one acute attack that damages the pancreatic duct. The damaged duct causes the pancreas to become inflamed. Scar tissue develops and the pancreas is slowly destroyed.</p>
 <p>Other causes of chronic pancreatitis are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>hereditary disorders of the pancreas</li>
 <li>cystic fibrosis — the most common inherited disorder leading to chronic pancreatitis</li>
 <li>hypercalcemia — high levels of calcium in the blood</li>
@@ -120,7 +120,7 @@
 <p>Hereditary pancreatitis can present in a person younger than age 30, but it might not be diagnosed for several years. Episodes of abdominal pain and diarrhea lasting several days come and go over time and can progress to chronic pancreatitis. A diagnosis of hereditary pancreatitis is likely if the person has two or more family members with pancreatitis in more than one generation.</p>
 <p><span style="text-decoration: underline;">Symptoms</span></p>
 <p>Most people with chronic pancreatitis experience upper abdominal pain, although some people have no pain at all. The pain may spread to the back, feel worse when eating or drinking, and become constant and disabling. In some cases, abdominal pain goes away as the condition worsens, most likely because the pancreas is no longer making digestive enzymes. Other symptoms include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>nausea</li>
 <li>vomiting</li>
 <li>weight loss</li>
@@ -144,7 +144,7 @@
 <p><strong>How common is pancreatitis in children?</strong></p>
 <p>Chronic pancreatitis in children is rare. Trauma to the pancreas and hereditary pancreatitis are two known causes of childhood pancreatitis. Children with cystic fibrosis — a progressive and incurable lung disease — may be at risk of developing pancreatitis. But more often the cause of pancreatitis in children is unknown.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Pancreatitis is inflammation of the pancreas, causing digestive enzymes to become active inside the pancreas and damage pancreatic tissue.</li>
 <li>Pancreatitis has two forms: acute and chronic.</li>
 <li>Common causes of pancreatitis are gallstones and heavy alcohol use.</li>

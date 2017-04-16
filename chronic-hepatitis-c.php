@@ -65,7 +65,7 @@
 <p><strong>Risk Factors and Transmission</strong></p>
 <p>HCV is spread primarily by contact with infected blood and blood products. Blood transfusions and the use of shared, unsterilized, or poorly sterilized needles, syringes and injection equipment or paraphernalia have been the main routes of the spread of HCV in the United States. With the introduction in 1991 of routine blood screening for HCV antibody and improvements in the test in mid-1992, transfusion-related hepatitis C has virtually disappeared. At present, injection drug use is the most common risk factor for contracting the infection. However, some patients who acquire hepatitis C do not have a recognized risk factor or known exposure to infected blood or to drug use.</p>
 <p>The most common risk factors for acquiring hepatitis C are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>injecting drugs, including having used injection drugs only once many years ago</li>
 <li>having a blood transfusion before June 1992, when sensitive tests for anti-HCV were introduced for blood screening</li>
 <li>receiving clotting factor concentrates (such as anti-hemophilic factor) before 1987, when effective means to inactive HCV were introduced</li>
@@ -74,7 +74,7 @@
 <li>suffering a needle-stick accident from a person with hepatitis C</li>
 </ul>
 <p>Other risk factors that have a slightly increased risk for hepatitis C are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>having sex with someone with hepatitis C or having multiple sex partners</li>
 <li>intra-nasal use of cocaine using shared equipment or paraphernalia</li></ul>
 
@@ -90,7 +90,7 @@
 <p>HCV is a small (40 to 60 nanometers in diameter), enveloped, single-stranded RNA virus of the family Flaviviridae and genus hepacivirus. Because the virus mutates rapidly, changes in the envelope proteins may help it evade the immune system. There are at least six major genotypes and more than 50 subtypes of HCV. The different genotypes have different geographic distributions. Genotypes 1a and 1b are the most common in the United States (about 75 percent of cases). Genotypes 2 and 3 are present in only 10 to 20 percent of patients. There is little difference in the severity of disease or outcome of patients infected with different genotypes. However, patients with genotypes 2 and 3 are more likely to respond to interferon treatment.</p>
 <p><strong>Clinical Symptoms and Signs</strong></p>
 <p>Many people with chronic hepatitis C have no symptoms of liver disease. If symptoms are present, they are usually mild, nonspecific, and intermittent. They may include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>fatigue</li>
 <li>mild right-upper-quadrant discomfort or tenderness (“liver pain”)</li>
 <li>nausea</li>
@@ -101,7 +101,7 @@
 <p><span style="text-decoration: underline;">Clinical Features of Cirrhosis</span></p>
 <p>Once a patient develops cirrhosis or if the patient has severe disease, symptoms and signs are more prominent. In addition to fatigue, the patient may complain of muscle weakness, poor appetite, nausea, weight loss, itching, dark urine, fluid retention, and abdominal swelling.</p>
 <p>Physical findings of cirrhosis may include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>enlarged liver</li>
 <li>enlarged spleen</li>
 <li>jaundice</li>
@@ -112,7 +112,7 @@
 </ul>
 <p><span style="text-decoration: underline;">Extrahepatic Manifestations</span></p>
 <p>Complications that do not involve the liver develop in 1 to 2 percent of people with hepatitis C; the most common is cryoglobulinemia, which is marked by:</p>
-<ul>
+<ul  class="arrow-list">
 <li>skin rashes, such as purpura, vasculitis, or urticaria</li>
 <li>joint and muscle aches</li>
 <li>kidney disease</li>
@@ -120,12 +120,12 @@
 <li>cryoglobulins, rheumatoid factor, and low-complement levels in serum</li>
 </ul>
 <p>Other complications of chronic hepatitis C are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>glomerulonephritis</li>
 <li>porphyria cutanea tarda</li>
 </ul>
 <p>Diseases that are less well documented to be related to hepatitis C are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>seronegative arthritis</li>
 <li>keratoconjunctivitis sicca (Sjögren’s syndrome)</li>
 <li>non-Hodgkin’s type, B-cell lymphomas</li>
@@ -143,7 +143,7 @@
 <p><span style="text-decoration: underline;">Direct Assays for HCV RNA</span></p>
 <p>PCR and TMA amplification can detect low levels of HCV RNA in serum. Testing for HCV RNA is a reliable way of demonstrating that hepatitis C infection is present and is the most specific test for infection. Testing for HCV RNA is particularly useful when aminotransferase levels are normal or only slightly elevated, when anti-HCV is not present, or when several causes of liver disease are possible. This method also helps diagnose hepatitis C in people who are immunosuppressed, have recently had an organ transplant, or have chronic renal failure. Currently available PCR assays will detect HCV RNA in serum down to a lower limit of 50 to 100 copies per milliliter (mL), which is equivalent to 25 to 50 international units (IU). A slightly more sensitive TMA test has recently become available. Almost all patients with chronic hepatitis C will test positive by these assays.</p>
 <p><span style="text-decoration: underline;">Biochemical Indicators of Hepatitis C Virus Infection</span></p>
-<ul>
+<ul  class="arrow-list">
 <li>In chronic hepatitis C, increases in the alanine and aspartate aminotransferases range from zero to 20 times (but usually less than five times) the upper limit of normal.</li>
 <li>Alanine aminotransferase (ALT) levels are usually higher than aspartate aminotransferase (AST) levels, but that finding may be reversed in patients who have cirrhosis.</li>
 <li>Alkaline phosphatase and gamma glutamyl transpeptidase are usually normal. If elevated, they may indicate cirrhosis.</li>
@@ -163,7 +163,7 @@
 <p><strong>Liver Biopsy</strong></p>
 <p>Liver biopsy is not necessary for diagnosis but is helpful for grading the severity of disease and staging the degree of fibrosis and permanent architectural damage. Hematoxylin and eosin stains and Masson’s trichrome stain are used to grade the amount of necrosis and inflammation and to stage the degree of fibrosis. Specific immunohistochemical stains for HCV have not been developed for routine use. Liver biopsy is also helpful in ruling out other causes of liver disease, such as alcoholic liver injury, nonalcoholic fatty liver disease, or iron overload.</p>
 <p>HCV causes the following changes in liver tissue:</p>
-<ul>
+<ul  class="arrow-list">
 <li>Necrosis and inflammation at the edge of the portal areas, so-called “piecemeal necrosis” or “interface hepatitis”</li>
 <li>Necrosis of hepatocytes and focal inflammation in the liver parenchyma</li>
 <li>Inflammatory cells in the portal areas (“portal inflammation”)</li>
@@ -185,7 +185,7 @@ Chronic Hepatitis C</p>
 <p>Diagnosis is problematic in patients who cannot produce anti-HCV because they are immunosuppressed or immunoincompetent. Thus, HCV RNA testing may be required for patients who have a solid-organ transplant, are on dialysis, are taking corticosteroids, or have agammaglobulinemia. Diagnosis is also difficult in patients with anti-HCV who have another form of liver disease that might be responsible for the liver injury, such as alcoholism, iron overload, or autoimmunity. In these situations, the anti-HCV may represent a false-positive reaction, previous HCV infection, or mild hepatitis C occurring on top of another liver condition. HCV RNA testing in these situations helps confirm that hepatitis C is contributing to the liver problem.</p>
 <p><strong>Differential Diagnosis</strong></p>
 <p>The major conditions that can be confused clinically with chronic hepatitis C include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>autoimmune hepatitis</li>
 <li>chronic hepatitis B and D</li>
 <li>alcoholic hepatitis</li>
@@ -206,7 +206,7 @@ Chronic Hepatitis C</p>
 <p>Combination therapy leads to rapid improvements in serum ALT levels and disappearance of detectable HCV RNA in up to 70 percent of patients. However, long-term improvement in hepatitis C occurs only if HCV RNA disappears during therapy and stays undetectable once therapy is stopped. Among patients who become HCV RNA negative during treatment, some will relapse when therapy is stopped. The relapse rate is lower in patients treated with combination therapy compared with monotherapy. Thus, a 48-week course of combination therapy using peginterferon and ribavirin yields a sustained response rate of about 55 percent. A similar course of peginterferon monotherapy yields a sustained response rate of only 35 percent. A response is considered “sustained” if HCV RNA remains undetectable for 6 months or more after stopping therapy.</p>
 <p><span style="text-decoration: underline;">Dosing</span></p>
 <p>Two forms of peginterferon have been developed and studied in large clinical trials: peginterferon alfa-2a (Pegasys: Hoffman La Roche, Nutley, NJ) and peginterferon alfa-2b (Pegintron: Schering-Plough Corporation, Kenilworth, NJ). These two products are roughly equivalent in efficacy and safety, but have different dosing regimens.</p>
-<ul>
+<ul  class="arrow-list">
 <li>Peginterferon alfa-2a is given subcutaneously in a fixed dose of 180 micrograms (mcg) per week.</li>
 <li>Peginterferon alfa-2b is given subcutaneously weekly in a weight-based dose of 1.5 mcg per kilogram (kg) per week (thus in the range of 75 to 150 mcg per week).</li>
 </ul>
@@ -228,7 +228,7 @@ Chronic Hepatitis C</p>
 <p>In patients with clinically significant extrahepatic manifestations, such as cryoglobulinemia and glomerulonephritis, therapy with interferon can result in remission of the clinical symptoms and signs. However, relapse after stopping therapy is common. In some patients, long-term or maintenance peginterferon therapy can be used despite persistence of HCV RNA in serum if clinical symptoms and signs resolve on therapy.</p>
 <p><span style="text-decoration: underline;">Who should not be treated?</span></p>
 <p>Therapy is inadvisable outside of controlled trials for patients who have:</p>
-<ul>
+<ul  class="arrow-list">
 <li>clinically decompensated cirrhosis because of hepatitis C</li>
 <li>kidney, liver, heart, or other solid-organ transplant</li>
 <li>specific contraindications to either monotherapy or combination therapy</li>
@@ -246,7 +246,7 @@ Chronic Hepatitis C</p>
 <p>A common question is whether liver biopsy is necessary before starting treatment of hepatitis C. The answer is that it is not necessary but is prudent and provides rationale for whether therapy is critical. Nevertheless, the major use of liver biopsy is to help in the decision of whether to initiate treatment or to delay until there are further advances in the field. In some situations, liver biopsy may not be very helpful. Patients with genotype 2 and 3, for instance, have a high rate of response and might be offered therapy regardless of the severity of hepatitis shown by liver biopsy. Furthermore, patients with genotype 1 who have laboratory or clinical evidence of advanced fibrosis can be assumed to have progressive liver disease, and therapy can be recommended without biopsy documentation. Finally, some patients wish to be treated regardless of severity of the underlying hepatitis and the liver biopsy results will not alter medical care. As response rates to therapy of hepatitis C improve, liver biopsy will play a lesser role in management.</p>
 <p><strong>Side Effects of Treatment</strong></p>
 <p>Common side effects of alpha interferon and peginterferon (occurring in more than 10 percent of patients) include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>fatigue</li>
 <li>muscle aches</li>
 <li>headaches</li>
@@ -261,7 +261,7 @@ Chronic Hepatitis C</p>
 </ul>
 <p>Most of these side effects are mild to moderate in severity and can be managed. They are worse during the first few weeks of treatment, especially with the first injection. Thereafter, side effects diminish. Acetaminophen or a nonsteroidal anti-inflammatory drug (NSAID) such as ibuprofen or naproxen may be helpful for the muscle aches and low-grade fever. Fatigue and depression are occasionally so troublesome that the dose of peginterferon should be decreased or therapy stopped early. Depression and personality changes can occur on peginterferon therapy and be quite subtle and not readily admitted by the patient. These side effects need careful monitoring. Patients with depression may benefit from antidepressant therapy using selective serotonin reuptake inhibitors. Generally, the psychiatric side effects resolve within 2 to 4 weeks of stopping combination therapy.</p>
 <p>Ribavirin also causes side effects, and the combination is generally less well tolerated than peginterferon monotherapy. The most common side effects of ribavirin are:</p>
-<ul>
+<ul  class="arrow-list">
 <li>anemia</li>
 <li>fatigue and irritability</li>
 <li>itching</li>
@@ -272,7 +272,7 @@ Chronic Hepatitis C</p>
 <p>The sudden drop in hemoglobin can precipitate angina pectoris in susceptible people, and fatalities from acute myocardial infarction and stroke have been reported in patients receiving combination therapy for hepatitis C. For these important reasons, ribavirin should not be used in patients with pre-existing anemia or with significant coronary or cerebral vascular disease. If such patients require therapy for hepatitis C, they should receive peginterferon monotherapy.</p>
 <p>Ribavirin has also been found to cause itching and nasal stuffiness. These are histamine-like side effects; they occur in 10 to 20 percent of patients and are usually mild to moderate in severity. In some patients, however, sinusitis, recurrent bronchitis, or asthma-like symptoms become prominent. It is important that these symptoms be recognized as attributable to ribavirin, because dose modification (by 200 mg per day) or early discontinuation of treatment may be necessary.</p>
 <p>Uncommon side effects of alpha interferon, peginterferon, and combination therapy (occurring in less than 2 percent of patients) include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>autoimmune disease (especially thyroid disease)</li>
 <li>severe bacterial infections</li>
 <li>marked thrombocytopenia</li>
@@ -301,7 +301,7 @@ Chronic Hepatitis C</p>
 <p><strong>All patients:</strong> After therapy, assess aminotransferase levels at 2- to 6-month intervals. In responders, repeat HCV RNA testing 6 months after stopping.</p>
 <p><strong>Considerations: Before, During, and After Therapy</strong></p>
 <p><span style="text-decoration: underline;">Before Starting Therapy</span></p>
-<ul>
+<ul  class="arrow-list">
 <li>Do a liver biopsy to confirm the diagnosis of HCV, assess the grade and stage of disease, and rule out other diagnoses. In situations where a liver biopsy is contraindicated, such as clotting disorders, combination therapy can be given without a pretreatment liver biopsy.</li>
 <li>Test for serum HCV RNA to document that viremia is present.</li>
 <li>Test for HCV genotype (or serotype) to help determine the duration of therapy and dose of ribavirin.</li>
@@ -309,7 +309,7 @@ Chronic Hepatitis C</p>
 <li>Counsel the patient about the relative risks and benefits of treatment. Side effects should be thoroughly discussed.</li>
 </ul>
 <p><span style="text-decoration: underline;">During Therapy</span></p>
-<ul>
+<ul  class="arrow-list">
 <li>Measure blood counts and aminotransferase levels at weeks 1, 2, and 4 and at 4- to 8-week intervals thereafter.</li>
 <li>Adjust the dose of ribavirin downward (by 200 mg at a time) if significant anemia occurs (hemoglobin less than 10 g/dL or hematocrit &lt; 30 percent) and stop ribavirin if severe anemia occurs (hemoglobin &lt; 8.5 g/dl or hematocrit &lt; 26 percent).</li>
 <li>Adjust the dose of peginterferon downward if there are intolerable side effects such as severe fatigue, depression, or irritability or marked decreases in white blood cell counts (absolute neutrophil count below 500 cells/mm3) or platelet counts (decrease below 30,000 cells/mm3). When using peginterferon alfa-2a, the dose can be reduced from 180 to 135 and then to 90 mcg per week. When using peginterferon alfa-2b, the dose can be reduced from 1.5 to 1.0 and then to 0.5 mcg per kg per week.</li>
@@ -321,7 +321,7 @@ Chronic Hepatitis C</p>
 <li>At the end of therapy, test HCV RNA by PCR to assess whether there is an end-of-treatment response.</li>
 </ul>
 <p><span style="text-decoration: underline;">After Therapy</span></p>
-<ul>
+<ul  class="arrow-list">
 <li>Measure aminotransferase levels every 2 months for 6 months.</li>
 <li>Six months after stopping therapy, test for HCV RNA by PCR (or TMA). If HCV RNA is still negative, the chance for a long-term “cure” is excellent; relapses have rarely been reported after this point.</li>
 </ul>

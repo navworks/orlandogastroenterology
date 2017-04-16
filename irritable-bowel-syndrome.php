@@ -65,7 +65,7 @@
 <p>Abdominal pain, bloating, and discomfort are the main symptoms of IBS. However, symptoms can vary from person to person. Some people have constipation, which means hard, difficult-to-pass, or infrequent bowel movements. Often these people report straining and cramping when trying to have a bowel movement but cannot eliminate any stool, or they are able to eliminate only a small amount. If they are able to have a bowel movement, there may be mucus in it, which is a fluid that moistens and protect passages in the digestive system. Some people with IBS experience diarrhea, which is frequent, loose, watery, stools. People with diarrhea frequently feel an urgent and uncontrollable need to have a bowel movement. Other people with IBS alternate between constipation and diarrhea. Sometimes people find that their symptoms subside for a few months and then return, while others report a constant worsening of symptoms over time.</p>
 <p><strong>What causes IBS?</strong></p>
 <p>Researchers have yet to discover any specific cause for IBS. One theory is that people who suffer from IBS have a colon, or large intestine, that is particularly sensitive and reactive to certain foods and stress. The immune system, which fights infection, may also be involved.</p>
-<ul>
+<ul  class="arrow-list">
 <li>Normal motility, or movement, may not be present in the colon of a person who has IBS. It can be spasmodic or can even stop working temporarily. Spasms are sudden strong muscle contractions that come and go.</li>
 <li>The lining of the colon called the epithelium, which is affected by the immune and nervous systems, regulates the flow of fluids in and out of the colon. In IBS, the epithelium appears to work properly. However, when the contents inside the colon move too quickly, the colon loses its ability to absorb fluids. The result is too much fluid in the stool. In other people, the movement inside the colon is too slow, which causes extra fluid to be absorbed. As a result, a person develops constipation.</li>
 <li>A person’s colon may respond strongly to stimuli such as certain foods or stress that would not bother most people.</li>
@@ -78,18 +78,18 @@ Researchers have also found very mild celiac disease in some people with symptom
 <p>There is no specific test for IBS, although diagnostic tests may be performed to rule out other problems. These tests may include stool sample testing, blood tests, and x rays. Typically, a doctor will perform a sigmoidoscopy, or colonoscopy, which allows the doctor to look inside the colon. This is done by inserting a small, flexible tube with a camera on the end of it through the anus. The camera then transfers the images of your colon onto a large screen for the doctor to see better.</p>
 <p>If your test results are negative, the doctor may diagnose IBS based on your symptoms, including how often you have had abdominal pain or discomfort during the past year, when the pain starts and stops in relation to bowel function, and how your bowel frequency and stool consistency have changed. Many doctors refer to a list of specific symptoms that must be present to make a diagnosis of IBS.</p>
 <p>Symptoms include:</p>
-<ul>
-<ul>
+<ul  class="arrow-list">
+<ul  class="arrow-list">
 <li>Abdominal pain or discomfort for at least 12 weeks out of the previous 12 months. These 12 weeks do not have to be consecutive.</li>
 <li>The abdominal pain or discomfort has two of the following three features:
-<ul>
+<ul  class="arrow-list">
 <li>It is relieved by having a bowel movement.</li>
 <li>When it starts, there is a change in how often you have a bowel movement.</li>
 <li>When it starts, there is a change in the form of the stool or the way it looks.</li>
 </ul>
 </li>
 <li>Certain symptoms must also be present, such as:
-<ul>
+<ul  class="arrow-list">
 <li>a change in frequency of bowel movements</li>
 <li>a change in appearance of bowel movements</li>
 <li>feelings of uncontrollable urgency to have a bowel movement</li>
@@ -102,7 +102,7 @@ Researchers have also found very mild celiac disease in some people with symptom
 </ul>
 </ul>
 <p>The following have been associated with a worsening of IBS symptoms:</p>
-<ul>
+<ul  class="arrow-list">
 <li>large meals</li>
 <li>bloating from gas in the colon</li>
 <li>medicines</li>
@@ -121,7 +121,7 @@ Researchers have also found very mild celiac disease in some people with symptom
 <p><strong>How does stress affect IBS?</strong></p>
 <p>Stress — feeling mentally or emotionally tense, troubled, angry, or overwhelmed — can stimulate colon spasms in people with IBS. The colon has many nerves that connect it to the brain. Like the heart and the lungs, the colon is partly controlled by the autonomic nervous system, which responds to stress. These nerves control the normal contractions of the colon and cause abdominal discomfort at stressful times. People often experience cramps or “butterflies” when they are nervous or upset. In people with IBS, the colon can be overly responsive to even slight conflict or stress. Stress makes the mind more aware of the sensations that arise in the colon, making the person perceive these sensations as unpleasant.</p>
 <p>Some evidence suggests that IBS is affected by the immune system, which fights infection in the body. The immune system is affected by stress. For all these reasons, stress management is an important part of treatment for IBS. Stress management options include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>stress reduction (relaxation) training and relaxation therapies such as meditation</li>
 <li>counseling and support</li>
 <li>regular exercise such as walking or yoga</li>
@@ -139,7 +139,7 @@ Researchers have also found very mild celiac disease in some people with symptom
 <p><strong>Is IBS linked to other health problems?</strong></p>
 <p>As its name indicates, IBS is a syndrome — a combination of signs and symptoms. IBS has not been shown to lead to a serious disease, including cancer. Through the years, IBS has been called by many names, among them colitis, mucous colitis, spastic colon, or spastic bowel. However, no link has been established between IBS and inflammatory bowel diseases such as Crohn’s disease or ulcerative colitis.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>IBS is a disorder that interferes with the normal functions of the colon. The symptoms are crampy abdominal pain, bloating, constipation, and diarrhea.</li>
 <li>IBS is a common disorder found more often in women than men.</li>
 <li>People with IBS have colons that are more sensitive and reactive to things that might not bother other people, such as stress, large meals, gas, medicines, certain foods, caffeine, or alcohol.</li>

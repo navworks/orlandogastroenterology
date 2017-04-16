@@ -107,7 +107,7 @@
 
 					<p>Our commitment to you is:</p>
 
-					<ul>
+					<ul  class="arrow-list">
 						<li>
 					–Excellent patient care
 							

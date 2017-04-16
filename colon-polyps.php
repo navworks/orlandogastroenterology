@@ -64,7 +64,7 @@
 <p>Some colon polyps are benign, which means they are not cancer. But some types of polyps may already be cancer or can become cancer. Flat polyps can be smaller and harder to see and are more likely to be cancer than raised polyps. Polyps can usually be removed during colonoscopy — the test used to check for colon polyps.</p>
 <p><strong>Who gets colon polyps?</strong></p>
 <p>Anyone can get colon polyps, but certain people are more likely to get them than others. You may have a greater chance of getting polyps if:</p>
-<ul>
+<ul  class="arrow-list">
 <li>you’re 50 years of age or older</li>
 <li>you’ve had polyps before</li>
 <li>someone in your family has had polyps</li>
@@ -72,7 +72,7 @@
 <li>you’ve had uterine or ovarian cancer before age 50</li>
 </ul>
 <p>You may also be more likely to get colon polyps if you:</p>
-<ul>
+<ul  class="arrow-list">
 <li>eat a lot of fatty foods</li>
 <li>smoke</li>
 <li>drink alcohol</li>
@@ -82,7 +82,7 @@
 <p><strong>What are the symptoms of colon polyps?</strong></p>
 <p>Most people with colon polyps do not have symptoms. Often, people don’t know they have one until the doctor finds it during a regular checkup or while testing for something else.</p>
 <p>But some people do have symptoms, such as</p>
-<ul>
+<ul  class="arrow-list">
 <li>bleeding from the anus. The anus is the opening at the end of the digestive tract where stool leaves the body. You might notice blood on your underwear or on toilet paper after you’ve had a bowel movement.</li>
 <li>constipation or diarrhea that lasts more than a week.</li>
 <li>blood in the stool. Blood can make stool look black, or it can show up as red streaks in the stool.</li>
@@ -90,7 +90,7 @@
 <p>If you have any of these symptoms, see a doctor to find out what the problem is.</p>
 <p><strong>How does the doctor test for colon polyps?</strong></p>
 <p>The doctor can use one or more tests to check for colon polyps.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Barium enema</strong> – The doctor puts a liquid called barium into your rectum before taking x rays of your large intestine. Barium makes your intestine look white in the pictures. Polyps are dark, so they’re easy to see.</li>
 <li><strong>Sigmoidoscopy</strong> – With this test, the doctor puts a thin, flexible tube into your rectum. The tube is called a sigmoidoscope, and it has a light in it. The doctor uses the sigmoidoscope to look at the last third of your large intestine.</li>
 <li><strong>Colonoscopy</strong> – The doctor will give you medicine to sedate you during the colonoscopy. This test is like the sigmoidoscopy, but the doctor looks at the entire large intestine with a long, flexible tube with a camera that shows images on a TV screen. The tube has a tool that can remove polyps. The doctor usually removes polyps during colonoscopy.</li>
@@ -104,7 +104,7 @@
 <p>If you’ve had colon polyps, the doctor will want you to get tested regularly in the future.</p>
 <p><strong>How can I prevent colon polyps?</strong></p>
 <p>Doctors don’t know of one sure way to prevent colon polyps. But you might be able to lower your risk of getting them if you:</p>
-<ul>
+<ul  class="arrow-list">
 <li>eat more fruits and vegetables and less fatty food</li>
 <li>don’t smoke</li>
 <li>avoid alcohol</li>
@@ -114,7 +114,7 @@
 <p>Eating more calcium may also lower your risk of getting polyps. Some foods that are rich in calcium are milk, cheese, yogurt, and broccoli.</p>
 <p>Taking a low dose of aspirin every day might help prevent polyps. Talk with your doctor before starting any medication.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>A colon polyp is a growth on the surface of the colon, also called the large intestine.</li>
 <li>Colon polyps can be raised or flat.</li>
 <li>Some colon polyps are benign, which means they are not cancer.</li>

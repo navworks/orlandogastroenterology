@@ -55,7 +55,7 @@
 					<div class="col-sm-5">
 						<h4> As a patient, you matter. </h4	>
 						<p>Our commitment to you is:</p>
-						<ul>
+						<ul class="arrow-list">
 							<li> Excellent patient care </li>
 							<li> Having the best reputation in helping you obtain optimum health </li>
 							<li> Meeting your needs </li>
@@ -71,15 +71,25 @@
 					</div>
 
 					<div class="col-sm-7">
-						 <img src="images/nurse-inner-top.jpg" class="img-responsive"></img>
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="zoom-and-hover">
+							 		<img src="images/nurse-inner-top.jpg" class="img-responsive"></img>
+							 	</div>
+							</div>
+						</div>
 						 <div class="row">
 							<div class="col-xs-6">
 								<br>
-						 		<img src="images/nurse-inner.jpg" class="img-responsive"></img>						 	
+								<div class="zoom-and-hover">
+							 		<img src="images/nurse-inner.jpg" class="img-responsive"></img>						 	
+							 	</div>
 						 	</div>
 						 	<div class="col-xs-6">
 						 		<br>
-						 		<img src="images/nurse-inner.jpg" class="img-responsive"></img>						 	
+								<div class="zoom-and-hover">
+							 		<img src="images/nurse-inner.jpg" class="img-responsive"></img>						 	
+							 	</div>
 						 	</div>
 						 </div>
 					</div>
@@ -93,19 +103,26 @@
 				<p>Our highly skilled team of GI experts are board certified and are dedicated to bringing you the best services in a caring environment. With expertise in the diagnosis and&nbsp;treatment of a wide array of gastrointestinal, liver and biliary tract diseases; our doctor, nurse practitioners, nurses, and courteous staff take care of patients in a state-of-the-art, beautiful outpatient surgery center located at <a href="http://www.milleniasurgerycenter.com/index.cfm" target="_blank">Millenia Surgery Center.</a></p>
 				<p >Orlando Gastroenterology provides a full-service outpatient setting offers ready access to endoscopic procedures and hemorrhoidal treatments.</p>
 				<p >Services include (<em>but are not limited to</em>):</p>
-				<ul >
+				<ul  class="arrow-list">
 				<li><strong>Colorectal cancer screening: Colonoscopy</strong></li>
 				<li><strong>Heartburn Investigation: EGD (Upper endoscopy)</strong></li>
 				<li><strong>Banding of Hemorrhoids</strong></li>
 				<li><strong>PillCam (small bowel capsule endoscopy)</strong></li>
 				</ul>
-				<h2><span style="color: #ff0000;">We now offer weekend hours: Saturday Procedures!</span></h2>
+				<blockquote class="bg-success"><h2 class="text-info text-center">We now offer weekend hours: Saturday Procedures!</h2></blockquote>
 				<p >Common problems for which patients are frequently seen in consultation include colorectal cancer screening, heartburn, constipation, abdominal pain, diarrhea, abnormal liver function tests, pancreatitis, inflammatory bowel disease, celiac disease, irritable bowel syndrome, pancreatic and biliary disorders. At Orlando Gastroenterology you will find compassionate physicians, practitioners, helpful staff and the latest technology to help care for patients.&nbsp; We are excited to service the Orlando, Clermont, Metrowest and Kissimmee area. We are committed to making your appointment thorough and convenient. When many people think about Orlando Florida, they associate it with extraodinary entertainment experiences.</p>
 				<p >At Orlando Gastroenterology, we believe that we can change and revolutionize the face of medicine. We adhere to the highest standards of medical practices. We believe that Orlando Florida will become known as a medical hub and be renowned for its medical technology.&nbsp; Because of the demand that we have experienced in colorectal health, we have added the best of the best nurse practitioners and doctors to serve you.</p>
-				<h2 >Pediatric Gastroenterology</h2>
-				<p>We have expanded our practice into pediatric gastroenterology and pediatric G.I. health.&nbsp; With the addition of Dr. Goli, a renowned and respected physician in his field, we can take care of your children’s gastric health needs.&nbsp; He is also a board-certified pediatric gastroenterologist. <a href="http://orlandogastroenterology.com/pediatric-gastroenterology-orlando/">Dr. Goli</a> received a top level award in New Jersey and has moved his practice to be with us. We are excited about a new opportunity to serve the Orlando area. We understand that having a sick child is taxing and difficult on both the child and the parent. That is why we invite you to visit us in our office located in Metrowest or one of our satellite offices. Call for an appointment today.</p>
+				<div class="row">
+					<div class="col-sm-2">
+						<h4><img src="images/colonoscopy.jpg" class="img-responsive img-rounded"></img></h4>
+					</div>
+					<div class="col-sm-10">
+						<h2 >Pediatric Gastroenterology</h2>
+						<p>We have expanded our practice into pediatric gastroenterology and pediatric G.I. health.&nbsp; With the addition of Dr. Goli, a renowned and respected physician in his field, we can take care of your children’s gastric health needs.&nbsp; He is also a board-certified pediatric gastroenterologist. <a href="http://orlandogastroenterology.com/pediatric-gastroenterology-orlando/">Dr. Goli</a> received a top level award in New Jersey and has moved his practice to be with us. We are excited about a new opportunity to serve the Orlando area. We understand that having a sick child is taxing and difficult on both the child and the parent. That is why we invite you to visit us in our office located in Metrowest or one of our satellite offices. Call for an appointment today.</p>
+						</div>
+					</div>
 				</div>
-				<p>We promise to make your visit as smooth as possible. We care about our patients.</p>
+						<p>We promise to make your visit as smooth as possible. We care about our patients.</p>
 </div>
 			
 </section >

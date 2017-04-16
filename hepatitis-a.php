@@ -61,7 +61,7 @@
 <p><strong>What is the liver?</strong></p>
 <p>The liver is an organ that does many important things.</p>
 <p>The liver:</p>
-<ul>
+<ul  class="arrow-list">
 <li>removes harmful chemicals from your blood</li>
 <li>fights infection</li>
 <li>helps digest food</li>
@@ -73,7 +73,7 @@
 <p>The hepatitis A virus causes hepatitis A. Viruses are germs that can cause sickness. For example, the flu is caused by a virus. People can pass viruses to each other.</p>
 <p><strong>Who gets hepatitis A?</strong></p>
 <p>Anyone can get hepatitis A, but some people are at higher risk, including:</p>
-<ul>
+<ul  class="arrow-list">
 <li>people who travel to developing countries</li>
 <li>people who live with someone who has hepatitis A</li>
 <li>people who use illegal drugs, including non-injection drugs</li>
@@ -82,21 +82,21 @@
 <p><strong>How could I get hepatitis A?</strong></p>
 <p>You could get hepatitis A through contact with an infected person’s stool.</p>
 <p>You could get hepatitis A from:</p>
-<ul>
+<ul  class="arrow-list">
 <li>eating food made by an infected person who didn’t wash his or her hands after using the bathroom</li>
 <li>drinking untreated water or eating food washed in untreated water</li>
 <li>placing a finger or object in your mouth that came into contact with an infected person’s stool</li>
 <li>having close personal contact with an infected person, such as through sex or caring for someone who is ill</li>
 </ul>
 <p>You cannot get hepatitis A from:</p>
-<ul>
+<ul  class="arrow-list">
 <li>someone sneezing or coughing on you</li>
 <li>sitting next to a person who has hepatitis A</li>
 <li>hugging an infected person</li>
 </ul>
 <p><strong>What are the symptoms of hepatitis A?</strong></p>
 <p>Children younger than age 6 often have no symptoms. Older children and adults often get mild, flu-like symptoms, including:</p>
-<ul>
+<ul  class="arrow-list">
 <li>tiredness</li>
 <li>upset stomach</li>
 <li>fever</li>
@@ -119,14 +119,14 @@
 <p>All children should be vaccinated and must be at least 12 months old to get the first shot. Discuss the hepatitis A vaccine with your child’s doctor.</p>
 <p>Adults at higher risk of getting hepatitis A and people with chronic liver disease should also be vaccinated. If you are traveling to countries where hepatitis A is common, including Mexico, try to get both shots before you go. If you don’t have time to get both shots before you travel, get the first shot as soon as possible. Most people gain some protection within 2 weeks after the first shot.</p>
 <p>You can also protect yourself and others from hepatitis A if you:</p>
-<ul>
+<ul  class="arrow-list">
 <li>always wash your hands with warm, soapy water after using the toilet or changing diapers and before fixing food or eating</li>
 <li>use bottled water for drinking, making ice cubes, and washing fruits and vegetables when you are in a developing country</li>
 </ul>
 <p><strong>What should I do if I think I have been exposed to the hepatitis A virus?</strong></p>
 <p>See your doctor right away if you think you have been exposed to the hepatitis A virus. A medicine called hepatitis A immune globulin may protect you from getting sick if taken shortly after exposure to the hepatitis A virus.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Hepatitis A is a liver disease caused by the hepatitis A virus.</li>
 <li>Anyone can get hepatitis A, but some people are at higher risk.</li>
 <li>You could get hepatitis A through contact with an infected person’s stool.</li>

@@ -62,7 +62,7 @@
 <p><strong>What is the liver?</strong></p>
 <p>The liver is an organ that does many important things.</p>
 <p>The liver:</p>
-<ul>
+<ul  class="arrow-list">
 <li>removes harmful chemicals from your blood</li>
 <li>fights infection</li>
 <li>helps digest food</li>
@@ -74,7 +74,7 @@
 <p>The hepatitis C virus causes hepatitis C. Viruses are germs that can cause sickness. For example, the flu is caused by a virus. People can pass viruses to each other.</p>
 <p><strong>Who gets hepatitis C?</strong></p>
 <p>Anyone can get hepatitis C, but some people are at higher risk, including:</p>
-<ul>
+<ul  class="arrow-list">
 <li>people who were born to a mother with hepatitis C</li>
 <li>people who have had more than one sex partner in the last 6 months or have a history of sexually transmitted disease</li>
 <li>people who had a blood transfusion or organ transplant before July 1992</li>
@@ -83,7 +83,7 @@
 </ul>
 <p><strong>How could I get hepatitis C?</strong></p>
 <p>You could get hepatitis C through contact with an infected person’s blood, semen, or other body fluid. You could get hepatitis C from:</p>
-<ul>
+<ul  class="arrow-list">
 <li>being born to a mother with hepatitis C</li>
 <li>having sex with an infected person</li>
 <li>being tattooed or pierced with unsterilized tools that were used on an infected person</li>
@@ -92,14 +92,14 @@
 <li>sharing drug needles with an infected person</li>
 </ul>
 <p>You cannot get hepatitis C from:</p>
-<ul>
+<ul  class="arrow-list">
 <li>shaking hands with an infected person</li>
 <li>hugging an infected person</li>
 <li>sitting next to an infected person</li>
 </ul>
 <p><strong>What are the symptoms of hepatitis C?</strong></p>
 <p>Most people have no symptoms until the virus causes liver damage, which can take 10 or more years to happen. Others have one or more of the following symptoms:</p>
-<ul>
+<ul  class="arrow-list">
 <li>yellowish eyes and skin, called jaundice</li>
 <li>a longer than usual amount of time for bleeding to stop</li>
 <li>swollen stomach or ankles</li>
@@ -115,7 +115,7 @@
 <p><strong>What is chronic hepatitis C?</strong></p>
 <p>Hepatitis C is chronic when the body can’t get rid of the hepatitis C virus. Although some people clear the virus from their bodies in a few months, most hepatitis C infections become chronic. Without treatment, chronic hepatitis C can cause scarring of the liver, called cirrhosis; liver cancer; and liver failure.</p>
 <p>Symptoms of cirrhosis include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>yellowish eyes and skin, called jaundice</li>
 <li>a longer than usual amount of time for bleeding to stop</li>
 <li>swollen stomach or ankles</li>
@@ -136,7 +136,7 @@
 <p>A liver transplant may be necessary if chronic hepatitis C causes liver failure. Liver transplantation surgery replaces a failed liver with a healthy one from a donor. Drug treatment often must continue because hepatitis C usually comes back after surgery.</p>
 <p><strong>How can I avoid getting hepatitis C?</strong></p>
 <p>You can protect yourself and others from hepatitis C if you:</p>
-<ul>
+<ul  class="arrow-list">
 <li>do not share drug needles</li>
 <li>wear gloves if you have to touch another person’s blood</li>
 <li>use a condom during sex</li>
@@ -147,7 +147,7 @@
 <p><strong>What should I do if I think I have been exposed to the hepatitis C virus?</strong></p>
 <p>See your doctor and get tested if you are at higher risk of getting hepatitis C or if you think you were exposed to the hepatitis C virus. Many people do not know they are infected. Early diagnosis and treatment can help prevent liver damage.</p>
 <p><strong>Points to Remember</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Hepatitis C is a liver disease caused by the hepatitis C virus.</li>
 <li>Anyone can get hepatitis C, but some people are at higher risk.</li>
 <li>You could get hepatitis C through contact with an infected person’s blood.</li>

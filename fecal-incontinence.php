@@ -63,7 +63,7 @@
 <p>Loss of bowel control can be devastating. People who have fecal incontinence may feel ashamed, embarrassed, or humiliated. Some don’t want to leave the house out of fear they might have an accident in public. Most try to hide the problem as long as possible, so they withdraw from friends and family. The social isolation is unfortunate but may be reduced with treatment that improves bowel control and makes incontinence easier to manage.</p>
 <p><strong>What causes fecal incontinence?</strong></p>
 <p>Fecal incontinence can have several causes:</p>
-<ul>
+<ul  class="arrow-list">
 <li>constipation</li>
 <li>damage to the anal sphincter muscles</li>
 <li>damage to the nerves of the anal sphincter muscles or the rectum</li>
@@ -83,7 +83,7 @@
 <p>Diarrhea, or loose stool, is more difficult to control than solid stool because with diarrhea the rectum fills with stool at a faster rate. Even people who don’t have fecal incontinence can leak stool when they have diarrhea.</p>
 <p><span style="text-decoration: underline;">Pelvic Floor Dysfunction</span></p>
 <p>Abnormalities of the pelvic floor muscles and nerves can cause fecal incontinence. Examples include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>impaired ability to sense stool in the rectum</li>
 <li>decreased ability to contract muscles in the anal canal to defecate</li>
 <li>dropping down of the rectum, a condition called rectal prolapse</li>
@@ -96,9 +96,9 @@
 <p><span style="text-decoration: underline;">Dietary Changes</span></p>
 <p>Food affects the consistency of stool and how quickly it passes through the digestive system. If your stools are hard to control because they are watery, you may find that eating high-fiber foods adds bulk and makes stool easier to control. But people with well-formed stools may find that high-fiber foods act as a laxative and contribute to the problem. Foods and drinks that may make the problem worse are those containing caffeine — like coffee, tea, or chocolate — which relaxes the internal anal sphincter muscles.</p>
 <p>You can adjust what and how you eat to help manage fecal incontinence.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Keep a food diary</strong> – List what you eat, how much you eat, and when you have an incontinent episode. After a few days, you may begin to see a pattern involving certain foods and incontinence. After you identify foods that seem to cause problems, cut back on them and see whether incontinence improves. Foods and drinks that typically cause diarrhea, and so should probably be avoided, include:
-<ul>
+<ul  class="arrow-list">
 <li>drinks and foods containing caffeine</li>
 <li>cured or smoked meat such as sausage, ham, or turkey</li>
 <li>spicy foods</li>
@@ -198,7 +198,7 @@ hot (oatmeal, Wheatena)</td>
 <p>If diarrhea is causing your incontinence, medication may help. Sometimes doctors recommend using bulk laxatives to help people develop a more regular bowel pattern. Or the doctor may prescribe antidiarrheal medicines such as loperamide or diphenoxylate to slow down the bowel and help control the problem.</p>
 <p><span style="text-decoration: underline;">Bowel Training</span></p>
 <p>Bowel training helps some people relearn how to control their bowel movements. In some cases, bowel training involves strengthening muscles; in others, it means training the bowels to empty at a specific time of day.</p>
-<ul>
+<ul  class="arrow-list">
 <li><strong>Use biofeedback</strong> – Biofeedback is a way to strengthen and coordinate the muscles and has helped some people with incontinence. Special computer equipment measures muscle contractions while you do exercises — called Kegels — to strengthen the rectum and improve rectal sensation. These exercises work muscles in the pelvic floor, including those involved in controlling stool. Computer feedback about how the muscles are working shows whether you’re doing the exercises correctly and whether the muscles are getting stronger. Whether biofeedback will work for you depends on the cause of your fecal incontinence, how severe the muscle damage is, and your ability to do the exercises.</li>
 <li><strong>Develop a regular pattern of bowel movements</strong> – Some people — particularly those whose fecal incontinence is caused by constipation — achieve bowel control by training themselves to have bowel movements at specific times during the day, such as after every meal. The key to this approach is persistence — it may take awhile to develop a regular pattern. Try not to get frustrated or give up if it doesn’t work right away.</li>
 </ul>
@@ -206,7 +206,7 @@ hot (oatmeal, Wheatena)</td>
 <p>Surgery to repair the anal sphincter may be an option for people who have not responded to dietary treatment and biofeedback and for those whose fecal incontinence is caused by injury to the pelvic floor, anal canal, or anal sphincter. People who have severe fecal incontinence that doesn’t respond to other treatments may benefit from injection of bulking agents in the anus or nerve stimulation in the lower pelvic area. A colostomy may be indicated for people with severe fecal incontinence who haven’t been helped by other procedures. This procedure involves disconnecting the colon and bringing one end through an opening in the abdomen — called a stoma — through which stool leaves the body and is collected in a pouch. The colostomy may be temporary or permanent.</p>
 <p><strong>What to Do About Anal Discomfort</strong></p>
 <p>The skin around the anus is delicate and sensitive. Constipation and diarrhea or contact between skin and stool can cause pain or itching. Here’s what you can do to relieve discomfort:</p>
-<ul>
+<ul  class="arrow-list">
 <li>Wash the area with water, but not soap, after a bowel movement. Soap can dry out the skin, making discomfort worse. If possible, wash in the shower with lukewarm water or use a sitz bath. Or try a no-rinse skin cleanser. Try not to use toilet paper to clean up — rubbing with dry toilet paper will only further irritate the skin. Pre-moistened, alcohol-free towelettes are a better choice.</li>
 <li>Let the area air dry after washing. If you don’t have time, gently pat yourself dry with a lint-free cloth.</li>
 <li>Use a moisture barrier cream, which is a protective cream to help prevent skin irritation from direct contact with stool. You should first clean the area well to avoid trapping bacteria that could cause further problems. However, talk with your health care professional before you try anal ointments and creams because some have ingredients that can be irritating. Your health care professional can recommend an appropriate cream or ointment.</li>
@@ -217,7 +217,7 @@ hot (oatmeal, Wheatena)</td>
 <p><strong>How can I cope with my feelings about fecal incontinence?</strong></p>
 <p>Because fecal incontinence can cause distress in the form of embarrassment, fear, and loneliness, taking steps to deal with it is important. Treatment can improve your life and help you feel better about yourself. If you haven’t been to a doctor yet, make an appointment. Also, consider contacting the organizations listed at the end of this fact sheet. Such groups can help you find information and support and, in some cases, referrals to doctors who specialize in treating fecal incontinence.</p>
 <p><strong>Everyday Practical Tips</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>Take a backpack or tote bag containing cleanup supplies and a change of clothing with you everywhere.</li>
 <li>Locate public restrooms before you need them.</li>
 <li>Use the toilet before leaving home.</li>
@@ -231,7 +231,7 @@ hot (oatmeal, Wheatena)</td>
 <p>The first step in treating the problem is passing the built-up stool. The doctor may prescribe one or more enemas or a drink that helps clean out the bowel, such as magnesium citrate, mineral oil, or polyethylene glycol.</p>
 <p>The next step is preventing future constipation. You will play a big role in this part of your child’s treatment. You may need to teach your child bowel habits, which means training your child to have regular bowel movements. Experts recommend that parents of children with poor bowel habits encourage them to sit on the toilet four times each day — after meals and at bedtime — for 5 minutes. Give rewards for bowel movements and do not punish children for incontinent episodes.</p>
 <p>Some changes in eating habits may also be necessary. Your child should eat more high-fiber foods to soften stool, avoid dairy products if they cause constipation, and drink plenty of fluids every day, including water and juices such as prune, grape, or apricot, which help prevent constipation. If necessary, the doctor may prescribe laxatives. It may take several months to break the pattern of withholding stool and constipation, and episodes may occur again in the future. The key is to pay close attention to your child’s bowel habits. Some warning signs to watch for include:</p>
-<ul>
+<ul  class="arrow-list">
 <li>pain with bowel movements</li>
 <li>hard stool</li>
 <li>constipation</li>
@@ -240,7 +240,7 @@ hot (oatmeal, Wheatena)</td>
 <li>signs of holding back a bowel movement, such as squatting, crossing the legs, or rocking back and forth</li>
 </ul>
 <p><strong>Why Children Get Constipated</strong></p>
-<ul>
+<ul  class="arrow-list">
 <li>They were potty-trained too early.</li>
 <li>They refuse to have a bowel movement because of painful ones in the past, embarrassment, stubbornness, or even a dislike of public bathrooms.</li>
 <li>They are in an unfamiliar place.</li>
