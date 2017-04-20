@@ -55,6 +55,7 @@
 			<div class="col-sm-9">
 
 				<h2 class="inner-content__mainhead"><span>You might have some questions….</span>this section is for you.</h2>
+				<img src="images/inner-image.jpg" class="img-responsive img-thumbnail">
 				<h3>About your health.</h3>
 				<p>
 					At Orlando Gastroenterology, we believe that treatment is only one aspect of healthcare. We’re in the practice of making sure you get healthy and stay healthy. Here, you’ll find a wealth of information on digestive health and wellness. From plain talk about gastrointestinal conditions to regimens aimed at improving internal wellness, we have your bases covered.
@@ -76,12 +77,12 @@
 							<li><a title="Bleeding in the Digestive Tract" href="bleeding-in-the-digestive-tract.php" target="_blank">Bleeding in the Digestive Tract</a></li>
 							<li><a title="Colon Polyps" href="colon-polyps.php" target="_blank">Colon Polyps</a></li>
 							<li><a title="Diarrhea" href="diarrhea.php" target="_blank">Diarrhea</a></li>
-							<li><a title="Fecal Incontinence" href="fecal-incontinence.php" target="_blank">Fecal Incontinence</a></li>
-							<li><a title="Gastroesophageal Reflux Disease (GERD)" href="gastroesophageal-reflux-disease-gerd.php" target="_blank">Gastroesophageal Reflux Disease</a></li>
+							<li><a title="Fecal Incontinence" href="fecal-incontinence.php" target="_blank">Fecal Incontinence</a></li>							
 						</ul>
 					</div>
 					<div class="col-sm-6">
 						<ul class="inner-content__pe-list">
+							<li><a title="Gastroesophageal Reflux Disease (GERD)" href="gastroesophageal-reflux-disease-gerd.php" target="_blank">Gastroesophageal Reflux Disease</a></li>
 							<li><a title="Hemorrhoids" href="hemorrhoids.php" target="_blank"><i class="icon-"></i>Hemorrhoids</a></li>
 							<li><a title="Hepatitis B" href="hepatitis-b.php" target="_blank">Hepatitis B</a></li>
 							<li><a title="Indigestion" href="indigestion.php" target="_blank">Indigestion</a></li>

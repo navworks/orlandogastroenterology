@@ -19,6 +19,9 @@
 	<script src="js/waypoints.min.js"></script>
 	<script src="js/jquery.validate.min.js"></script>
 	<script src="js/custom.js"></script>	
+
+
+
 </head>
 
 <body>

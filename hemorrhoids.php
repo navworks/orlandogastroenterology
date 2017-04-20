@@ -48,11 +48,14 @@
 <section class="inner-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-8">
-
+			<div class="col-sm-3">
+				<?php include 'includes/testimonials-side.php'; ?>		
+				<?php include 'includes/form.php'; ?>		
+				<?php include 'includes/three-blocks.php'; ?>	
+			</div>
+			<div class="col-sm-9">
 				<h2 class="inner-content__mainhead"><span>Doctor For</span> Trouble with Hemorrhoids </h2>
-				<h3>Seeing the Orlando Gastroenterology Doctor For Trouble with Hemorrhoids</h3>
-				
+				<h3>Seeing the Orlando Gastroenterology Doctor For Trouble with Hemorrhoids</h3>				
 				<p><strong>At the local Orlando Gastroenterology appointment, your doctor will help you to better understand what hemorrhoids are and how you can prevent them in the future.</strong> There are some people who develop them due to pregnancy and will never get rid of them however the symptoms associated with hemorrhoids can be dealt with to make the pain and burning easier to bear. Here is some information that you can use to better understand your Orlando gastroenterology test results.</p>
 				<h3>What Exactly Are Hemorrhoids?</h3>
 				<p>The veins in the anal canal of your body that get swollen are known as hemorrhoids. This can be especially painful for some but in many cases is not a serious problem. The veins can cause swelling in the anal canal which forms internal hemorrhoids or you may have external hemorrhoids at the base of the anal canal. There is a chance that you can develop both at one time however.</p>
@@ -76,13 +79,7 @@
 				</ul>
 				<h3>How are hemorrhoids prevented?</h3>
 				<p>Make sure you are hydrated and that you are active and healthy. By keeping stool soft, you will be able to have bowel movements more easily which will in turn put less strain on the area where hemorrhoids often develop.</p>
-
-
-
-			</div>
-			<div class="col-sm-4">
-				<?php include 'includes/form.php'; ?>		
-			</div>
+			</div>			
 </section >
 
 <?php include 'includes/services.php'; ?>

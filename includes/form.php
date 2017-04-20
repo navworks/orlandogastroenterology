@@ -1,11 +1,11 @@
 <div  class="make-appointment">
+	<div class="make-appointment__form-wrap">
 	<h4>
 		HAVE US CALL YOU TO SCHEDULE AN APPOINTMENT
 	</h4>
 	<p>
 		Our scheduling will contact you within 1 Business Day
 	</p>
-	<div class="make-appointment__form-wrap">
 		<h2>Appointment Form</h2>
 		<p>Our scheduling will contact you within 1 Business Day</p>
 		<div class="row">
@@ -14,11 +14,11 @@
 					<label for="name">Your Name <span class="text-danger">*</span></label>
 					<input minlength="2" type="text" required name="name" id="name" placeholder="Your Name*" >
 				</div>
-				<div class="col-md-6 col-sm-6">
+				<div class="col-sm-12">
 					<label for="email">Your Email Address <span class="text-danger">*</span></label>
 					<input type="email" name="email" id="email" placeholder="Your Email*" required>
 				</div>
-				<div class="col-md-6 col-sm-6">
+				<div class="col-sm-12">
 					<label for="phno">Your Phone number <span class="text-danger">*</span></label>
 					<input type="text" name="phno" id="phno" placeholder="Your Phone Number*" required>
 				</div>

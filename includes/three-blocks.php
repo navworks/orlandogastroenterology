@@ -10,8 +10,8 @@
 <div class="small-blocks">
 	<i class="icon-mail"></i>
 	<div class="small-blocks__text">
-		<p>Need Support? Drop us a mail</p>
-		<h4>info@orlando.com</h4>
+		<p>Need Support?<br>Drop us a mail</p>
+		<h6>orlandogastroenterology.com</h6>
 	</div>
 	<div class="clearfix"></div>
 </div>

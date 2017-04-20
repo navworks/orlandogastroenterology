@@ -49,7 +49,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-3">
-				<?php include 'includes/left.php'; ?>		
+				<?php include 'includes/testimonials-side.php'; ?>		
+				<?php include 'includes/form.php'; ?>		
+				<?php include 'includes/three-blocks.php'; ?>	
 			</div>
 
 			<div class="col-sm-9">
