@@ -9,7 +9,7 @@
 	<meta name="subject" content="ISNSCCON 2017">
 	<title>Orlando Gastroenterology, P.A.</title>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
-	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:200,400,500,600,700" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="styles/styles.css">
 	<link rel="stylesheet" type="text/css" href="styles/animate.css">
 	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css">	
@@ -33,50 +33,87 @@
 	<div class="banner">
 		<div class="swiper-container">
 			<div class="swiper-wrapper">
-				<div class="swiper-slide" style="background-image:url(images/slider/slider-bg.jpg); ">				
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-6">
-								<img src="images/slider/mag.jpg" class="img-responsive banner__img-center">
+					
+
+
+				<div class="swiper-slide">				
+					<div class="banner__wrap">
+						<img src="images/slider/mag.jpg" class="img-responsive" data-animation="fadeIn" >
+						<div class="banner__caption-holder">
+							<div class="banner__slide1-head1" data-animation="fadeInRight" >
+								<span>Orlando</span> Magazine names
+							</div>								
+							<div class="banner__slide1-head2" data-animation="zoomIn" >
+								Dr. Pothamsetty
 							</div>
-							<div class="col-sm-6">
-								<h2 data-animation="fadeInRight" class="banner__head text-primary blue-bg">
-									<span>Orlando Magazine names</span>
-								</h2>
-								<h1 data-animation="zoomIn" class="text-primary blue-bg no-mar-top">
-									<span>Dr. Pothamsetty</span>
-								</h1>
-								<h3 data-animation="zoomIn" class="text-primary blue-bg no-mar-top">
-									<span>one of Orlando's Premier Doctors</span>
-								</h3>								
-							</div>
+							<div class="banner__slide1-head3" data-animation="fadeInUp" >
+								<span>one of Orlando's Premier Doctors</span>
+							</div>	
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide" style="background-image:url(images/slider/banner1.jpg);">				
-					<div class="container">
-						<div class="row"><div class="col-sm-12">
-							<h1 data-animation="fadeInLeft" class="blue-bg banner__head">
+
+
+				<div class="swiper-slide hospital-slide">				
+					<div class="banner__wrap ">
+						<div class="banner__white-caption-holder" data-animation="fadeInRight" >
+							<div class="banner__slide2-head1" >
 								<span>We are pleased to announce</span><br>
-							</h1>
-							<h1 data-animation="fadeInRight" class="blue-bg banner__head no-mar-top">
+							</div>	
+							<div class="banner__slide2-head2">
 								<span>that we now offer Saturday hours</span>
-							</h1>
-						</div></div>
+							</div>	
+						</div>	
 					</div>
 				</div>
-				<div class="swiper-slide" src="images/slider/slider-bg.jpg" style="background-image:url(images/slider/banner2.jpg);">
-					<div class="container">
-						<div class="row"><div class="col-sm-12">
-						<h1 data-animation="zoomIn" class="white-tint-bg">
-							<span>Congratulations to Dr. Pothamsetty for his appointment to </span>
-						</h1>
-						<h1 data-animation="zoomIn" class="no-mar-top white-tint-bg">
-							<span>Assistant Professor of Medicine at the UCF College of Medicine.</span>
-						</h1>
-						</div>
-					</div></div>
+
+				<div class="swiper-slide ucf-slide">				
+					<div class="banner__wrap ">
+						<div class="banner__caption-holder" data-animation="zoomIn" >
+							<div class="banner__slide3-head" >
+								Congratulations to <br>
+								<span>Dr. Pothamsetty </span><br>
+								for his appointment to Assistant Professor of Medicine <br>
+								at the <span>UCF College of Medicine</span>
+							</div>	
+						</div>	
+					</div>
 				</div>
+
+				
+				<div class="swiper-slide">				
+					<div class="banner__wrap">
+						<div class="banner__dr-caption-holder">
+							<div class="banner__slide5-head">
+								<b>Welcome</b> <br>
+								<i><span>Dr. Goli</span></i><br>
+								Pediatric <span>Gastroenterologist,</span><br>
+								to our practice
+							</div>
+						</div>
+						<img src="images/slider/goli.png" class="img-responsive " data-animation="fadeIn" >
+					</div>
+				</div>
+
+				<div class="swiper-slide">				
+					<div class="banner__wrap">
+						<div class="banner__dr-caption-holder">
+							<div class="banner__slide5-head">
+								<span>Dr. Mejia</span> announces <br>
+								new office location <br>
+								in <span>Kissimmee</span>
+							</div>
+						</div>
+						<img src="images/slider/meija.png" class="img-responsive " data-animation="fadeIn" >
+					</div>
+				</div>
+
+				</div>
+				
+
+<!--
+
+				
 				<div class="swiper-slide" style="background-image:url(images/slider/slider-bg.jpg);">
 					<div class="container">
 						<div class="row">
@@ -123,6 +160,7 @@
 						</div>
 					</div>
 				</div>
+-->
 			</div>
 			<!-- Add Pagination
 				<div class="swiper-pagination swiper-pagination-white"></div>
